@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Graph/src/main&apos;&#x0D;&#x0A;- Original project: &apos;ParkProject&apos;&#x0D;&#x0A;- Destination element: &apos;Graph/src/main&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     parkSystem.Stack.java&#x0D;&#x0A;     parkSystem.Queue.java" description="Copy compilation units" destination="=Graph/src&lt;main" element1="/src&lt;parkSystem{Stack.java" element2="/src&lt;parkSystem{Queue.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1573262964195" units="2" version="1.0"/>
+</session>

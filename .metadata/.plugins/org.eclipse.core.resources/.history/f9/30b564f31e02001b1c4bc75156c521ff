@@ -1,0 +1,39 @@
+package one;
+import java.io.Serializable;
+public class Hero {
+	String name;
+	int hitPoint;
+	int damage;
+	
+	public Hero(String name, int hitPoint, int damage) {
+		super();
+		this.name = name;
+		this.hitPoint = hitPoint;
+		this.damage = damage;
+	}
+	public void AttackHero(Hero target) {
+		try{Thread.sleep(1000);}
+		catch (InterruptedException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+//		优先级已经去除
+		if (target.isDead()) {System.out.println(target.name +"死了！"); return;}
+		else if (this.isDead()) {System.out.println(this.name +"死了！"); return;}
+		else {;}
+		target.hitPoint-=this.damage;
+		System.out.format("%s 正在攻击 %s 前者血量：%d 后者血量：%d \n",this.name,target.name,this.hitPoint,target.hitPoint);
+	}
+	public boolean isDead() {
+		if (this.hitPoint<=0) {return true;}
+		else {return false;}
+	}
+	public void recover() {
+		// TODO Auto-generated method stub
+		this.hitPoint++;
+	}
+	public void loseHP() {
+		// TODO Auto-generated method stub
+		this.hitPoint--;
+	}
+}

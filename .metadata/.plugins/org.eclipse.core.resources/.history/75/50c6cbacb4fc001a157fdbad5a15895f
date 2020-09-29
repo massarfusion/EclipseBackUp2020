@@ -1,0 +1,16 @@
+package one;
+
+public class KillThread {
+	Hero h1;
+	Hero h2;
+	public KillThread(Hero h1, Hero h2) {
+		super();
+		this.h1 = h1;
+		this.h2 = h2;
+	}
+	public void run() {
+		while (!h1.isDead()) {
+			h2.AttackHero(h1);
+		}
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Collection/src/hash&apos;&#x0D;&#x0A;- Original project: &apos;HashMapper&apos;&#x0D;&#x0A;- Destination element: &apos;Collection/src/hash&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mainFiles.Client.java&#x0D;&#x0A;     mainFiles.HashMap.java&#x0D;&#x0A;     mainFiles.Hashitem.java" description="Copy compilation units" destination="=Collection/src&lt;hash" element1="/src&lt;mainFiles{Client.java" element2="/src&lt;mainFiles{HashMap.java" element3="/src&lt;mainFiles{Hashitem.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575362518523" units="3" version="1.0"/>
+</session>

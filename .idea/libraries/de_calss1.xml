@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="de_calss1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChoosingClass/src/de_calss/de_calss.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

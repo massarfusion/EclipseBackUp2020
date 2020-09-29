@@ -1,0 +1,24 @@
+package one;
+
+public class Sync {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		final Object obj=new Object();
+		final Hero gareen =new Hero("Gareen",10000,20);
+		final int round=10000;
+		Thread[] addTh=new Thread[round];
+		Thread[] redTh=new Thread[round];
+		for (int i=0;i<round;i++) {
+			Thread temp=new Thread() {
+				public void run() {
+					synchronized(obj) {
+						gareen.recover();
+					}
+				}
+			}
+		}
+		
+	}
+
+}

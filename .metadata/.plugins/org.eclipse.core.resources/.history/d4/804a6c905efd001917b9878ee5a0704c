@@ -1,0 +1,60 @@
+package basics;
+
+public class Node {
+	
+	int data;
+	Node parent;
+	Node leftChild;
+	Node rightChild;
+	void printme() {
+		
+		System.out.println(this.data);
+		
+	}
+	public Node(int data) {
+		super();
+		this.data = data;
+	}
+	public Object getData() {
+		return data;
+	}
+	public Node getParent() {
+		return parent;
+	}
+	public Node getLeftChild() {
+		return leftChild;
+	}
+	public Node getRightChild() {
+		return rightChild;
+	}
+	public void setData(int data) {
+		this.data = data;
+	}
+	public void setParent(Node parent) {
+		this.parent = parent;
+	}
+	public void setLeftChild(Node leftChild) {
+		this.leftChild = leftChild;
+	}
+	public void setRightChild(Node rightChild) {
+		this.rightChild = rightChild;
+	}
+	
+	void filment(int target) {
+		if (this.leftChild.getData()==0&&this.rightChild.getData()==0) {
+			
+			
+		}else {;}
+		
+		
+		if (this.leftChild==null) {
+			this.leftChild=new Node (target);
+		}else {;}
+		if (this.rightChild)
+		
+		
+	}
+	
+	
+	
+}

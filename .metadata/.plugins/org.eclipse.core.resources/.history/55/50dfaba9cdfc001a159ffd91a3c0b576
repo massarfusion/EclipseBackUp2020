@@ -1,0 +1,35 @@
+package one;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Hero green =new Hero("¸ÇÂ×",660,50);
+		Hero teemo =new Hero("ÌáÄª",300,30);
+		Hero bh =new Hero("ÉÍ½ğÁÔÈË",500,65);
+//		KillThread kh1=new KillThread(green,teemo);
+////		KillThread kh2=new KillThread(green,bh);
+//		KillThread kh3=new KillThread(teemo,green);
+////		kh1.start();
+//////		kh2.start();
+////		kh3.start();
+//		new Thread(kh1).start();
+//		new Thread(kh3).start();
+		Thread t1=new Thread() {
+			public void run() {
+				while(!teemo.isDead()) {
+					green.AttackHero(teemo);
+				}
+			}
+		};
+		Thread t1=new Thread() {
+			public void run() {
+				while(!green.isDead()) {
+					teemo.AttackHero(green);
+				}
+			}
+		};
+		
+	}
+
+}

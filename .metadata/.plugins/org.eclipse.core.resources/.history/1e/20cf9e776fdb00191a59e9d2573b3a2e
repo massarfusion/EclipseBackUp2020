@@ -1,0 +1,45 @@
+package main;
+
+import java.util.Scanner;
+
+public class Joseph {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SingleLink circle=new SingleLink();
+		Scanner in = new Scanner(System.in);
+		int outSignal=in.nextInt();
+		int total=in.nextInt();
+		for (int i=1;i<=total;i++) {
+			
+			circle.addNodeInt(i);
+			
+			
+		}
+		
+		int index=outSignal;
+		
+		
+		while (circle.isEmpty()!=true)
+		{
+			
+			Node start = circle.head;
+			for (int i=1;i<=outSignal;i++) {
+				
+				start=start.next;
+				
+			}
+			
+			circle.deleteNode(start);
+			
+			
+		}
+		
+		
+		
+		
+		
+		
+	}
+
+}

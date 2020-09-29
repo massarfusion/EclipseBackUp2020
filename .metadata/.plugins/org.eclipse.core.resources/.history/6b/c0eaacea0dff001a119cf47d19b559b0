@@ -1,0 +1,12 @@
+package one;
+
+public class Sync {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		final Object obj=new Object();
+		final Hero gareen =new Hero("Gareen",500,20);
+		
+	}
+
+}

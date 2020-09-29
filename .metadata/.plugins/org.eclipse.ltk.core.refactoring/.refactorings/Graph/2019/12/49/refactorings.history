@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 elements to &apos;Collection/src/graph_iter&apos;&#x0D;&#x0A;- Original project: &apos;Graph&apos;&#x0D;&#x0A;- Destination element: &apos;Collection/src/graph_iter&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     main.Queue.java&#x0D;&#x0A;     main.package-info.java&#x0D;&#x0A;     main.Stack.java&#x0D;&#x0A;     main.Adjlist.java&#x0D;&#x0A;     main.Client.java&#x0D;&#x0A;     main.Node.java" description="Copy compilation units" destination="=Collection/src&lt;graph_iter" element1="/src&lt;main{Queue.java" element2="/src&lt;main{package-info.java" element3="/src&lt;main{Stack.java" element4="/src&lt;main{Adjlist.java" element5="/src&lt;main{Client.java" element6="/src&lt;main{Node.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575362477841" units="6" version="1.0"/>
+</session>

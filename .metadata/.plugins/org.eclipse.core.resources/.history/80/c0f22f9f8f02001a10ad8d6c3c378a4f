@@ -1,0 +1,48 @@
+package main;
+
+import java.util.Scanner;
+
+public class Adjlist {
+	Node [] Adjlist;
+	Scanner in = new Scanner (System.in);
+	int Vernum;// how many nodes U have
+	int Linknum;//How many sides U have
+	public void initialize() {
+		System.out.println("输入顶点数以及边数,空格分开");
+		this.Vernum=in.nextInt();
+		this.Linknum=in.nextInt();
+		this.Adjlist=new Node [this.Vernum+1];
+		for (int i=1;i<this.Vernum+1;i++) {
+			Adjlist[i]=new Node (114514,null);
+			Adjlist[i].info=i;
+			Adjlist[i].link=null;
+			
+		}/*
+		
+		*
+		*
+		*请注意数组的起始位置是 1  
+		*
+		*
+		*/
+		System.out.println("输入顶点对,空格分开");
+		for (int j=0;j<this.Linknum*2;j++) {
+			System.out.println("输入起始点");
+			int start=in.nextInt();
+			System.out.println("输入抵达点");
+			int end=in.nextInt();
+			Node index=Adjlist[start];
+			while (index.link!=null) {
+				index=index.getLink();
+			}
+			index.link=new Node (end,null);
+		}
+		
+		
+	}
+	
+	
+	
+	
+	
+}

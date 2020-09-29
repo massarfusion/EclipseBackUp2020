@@ -1,0 +1,14 @@
+package main;
+
+
+
+public class Node {
+	
+		Node next=null;
+		int data;
+		public Node(int info) {
+			this.data=info;
+		}
+		
+	
+}

@@ -1,0 +1,28 @@
+package one;
+
+public class Hero {
+	String name;
+	int hitPoint;
+	int damage;
+	
+	public Hero(String name, int hitPoint, int damage) {
+		super();
+		this.name = name;
+		this.hitPoint = hitPoint;
+		this.damage = damage;
+	}
+	public void AttackHero(Hero target) {
+		try{Thread.sleep(1000);}
+		catch (InterruptedException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+		System.out.format("%s 正在攻击 %s, %s的血变成了 %.0f%n",name,target.name,target.name,target.hitPoint);
+		target.hitPoint-=this.damage;
+		if (target.isDead()) {System.out.println(target.name +"死了！");}
+	}
+	public boolean isDead() {
+		if (this.hitPoint<=0) {return true;}
+		else {return false;}
+	}
+}

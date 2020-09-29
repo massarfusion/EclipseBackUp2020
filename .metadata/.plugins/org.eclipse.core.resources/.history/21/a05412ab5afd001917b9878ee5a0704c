@@ -1,0 +1,17 @@
+package basics;
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in=new Scanner(System.in);
+		BinaryTree bnt=new BinaryTree();
+		bnt.construct("1,12131,44,6");
+		
+		
+		
+	}
+
+}

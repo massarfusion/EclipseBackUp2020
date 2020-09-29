@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="de_graphic1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Chapter_four/bin/de_graphic/de_graphic.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

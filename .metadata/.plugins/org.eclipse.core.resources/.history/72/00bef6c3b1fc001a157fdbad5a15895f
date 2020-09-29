@@ -1,0 +1,10 @@
+package one;
+
+public class Hero {
+	String name;
+	int hitPoint;
+	int damage;
+	public void AttackHero(hero target) {
+		
+	}
+}

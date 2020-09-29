@@ -1,0 +1,32 @@
+package basics;
+
+public class BinaryTree {
+	
+	Node rootNode;
+	void construct(String raw) {
+		String [] rawGroup=raw.split(",");
+		int [] target=new int[rawGroup.length];
+		for (int i=0;i<target.length;i++) {
+			target[i]=Integer.parseInt( rawGroup[i] );
+		}
+		/*
+		 * 
+		 * 
+		 */
+		this.rootNode=new Node(target[0]);
+		Node pointer=this.rootNode;
+		for (int i=1;i<target.length;i++)
+			
+			
+			
+			pointer.filment(target[i], pointer);
+			
+			
+			
+		}
+		
+		
+	}
+	
+	
+

@@ -1,0 +1,23 @@
+package basics;
+
+public class Node {
+	
+	Object data;
+	Node parent;
+	Node leftChild;
+	Node rightChild;
+	void printme() {
+		
+		System.out.println(this.data);
+		
+	}
+	public Node(Object data) {
+		super();
+		this.data = data;
+	}
+	
+	
+	
+	
+	
+}

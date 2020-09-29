@@ -1,0 +1,12 @@
+package one;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Hero green =new Hero("¸ÇÂ×",660,50);
+		Hero teemo =new Hero("ÌáÄª",300,30);
+		Hero green =new Hero("¸ÇÂ×",660,50);
+	}
+
+}

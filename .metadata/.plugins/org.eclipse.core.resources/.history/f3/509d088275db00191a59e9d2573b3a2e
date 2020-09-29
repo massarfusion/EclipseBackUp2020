@@ -1,0 +1,32 @@
+package main;
+
+public class CycleLink <T> {
+	public class Node<T>{
+		private T data;
+		private Node next;
+		public Node() {
+			
+		}
+		public Node(T dat,Node next){
+			this.data=dat;
+			this.next=next;
+		}
+	}
+	
+	private Node head;
+	private Node tail;
+	private int size;
+	
+	public CycleLink() {
+    }//null initialization//
+	
+	public void linkLast(T element) {
+		
+		
+		
+		
+	}
+	
+	
+	
+}

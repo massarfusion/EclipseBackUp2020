@@ -1,0 +1,19 @@
+package main;
+
+public class Client {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Adjlist al=new Adjlist();
+		al.initialize();
+		System.out.println("深度优先");
+		al.traversal_depth();
+		System.out.println("广度优先");
+		al.iniset();
+		al.traversal_width();
+		al.printmoi();
+		System.out.println("finir");
+		
+	}
+
+}

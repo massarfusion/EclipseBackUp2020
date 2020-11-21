@@ -55,8 +55,8 @@ public class Grammer {
 		else if ("H".equals(waiting)&&"22".equals(coming)){return new String[]{""};}
 		else if ("H".equals(waiting)&&"5".equals(coming)){return new String[]{""};}
 		//M
-		else if ("H".equals(waiting)&&"23".equals(coming)){return new String[]{"23","T"};}
-		else if ("H".equals(waiting)&&"24".equals(coming)){return new String[]{"24","T"};}
+		else if ("M".equals(waiting)&&"23".equals(coming)){return new String[]{"23","T"};}
+		else if ("M".equals(waiting)&&"24".equals(coming)){return new String[]{"24","T"};}
 		//T
 		else if ("T".equals(waiting)&&"18".equals(coming)){return new String[]{"F","W"};}
 		else if ("T".equals(waiting)&&"19".equals(coming)||"T".equals(waiting)&&"20".equals(coming))
@@ -93,9 +93,9 @@ public class Grammer {
 		else if ("X".equals(waiting)&&"29".equals(coming)){return new String[]{""};}
 		else if ("X".equals(waiting)&&"28".equals(coming)){return new String[]{"28","A"};}
 		//K
-		else if ("R".equals(waiting)&&"9".equals(coming)){return new String[]{"9"};}
-		else if ("R".equals(waiting)&&"3".equals(coming)){return new String[]{"3"};}
-		else if ("R".equals(waiting)&&"13".equals(coming)){return new String[]{"13"};}
+		else if ("K".equals(waiting)&&"9".equals(coming)){return new String[]{"9"};}
+		else if ("K".equals(waiting)&&"3".equals(coming)){return new String[]{"3"};}
+		else if ("K".equals(waiting)&&"13".equals(coming)){return new String[]{"13"};}
 		//#
 		else if ("#".equals(waiting)&&"#".equals(coming)){return new String[]{""};}
 		//ELSE

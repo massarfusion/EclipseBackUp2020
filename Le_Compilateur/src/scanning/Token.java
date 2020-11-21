@@ -20,5 +20,26 @@ public class Token {
 	public void setAddr(int rcv) {
 		this.addr=rcv;
 	}
+
+	public String getName() {
+		return name;
+	}
+
+	public String getCode() {
+		return code;
+	}
+
+	public int getAddr() {
+		return addr;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setCode(String code) {
+		this.code = code;
+	}
+	
 	//
 }

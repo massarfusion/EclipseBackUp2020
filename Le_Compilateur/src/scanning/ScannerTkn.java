@@ -220,7 +220,7 @@ class analysizer{
 	}//分析器方法
 }//外层类
 
-public class Scanner {
+public class ScannerTkn {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		File origin=new File("D:\\data.txt");
@@ -236,7 +236,34 @@ public class Scanner {
 		int a=0;
 		
 	}
-	
+	public List<Token> listTkn() throws IOException {
+		File origin=new File("D:\\data.txt");
+		FileReader fr=new FileReader(origin);
+		int len=(int) origin.length();
+		char[] reads=new char[len+1];
+		fr.read(reads);
+		fr.close();
+		List finToken=new ArrayList<Token>();
+		List finSymbol=new ArrayList<Token>();
+		List tokens=new analysizer().analyse(reads,finToken);
+		List symbols=new analysizer().generateSymbol(finToken,finSymbol);
+		int a=0;
+		return tokens ;
+	}
+	public List<Token> listSym() throws IOException {
+		File origin=new File("D:\\data.txt");
+		FileReader fr=new FileReader(origin);
+		int len=(int) origin.length();
+		char[] reads=new char[len+1];
+		fr.read(reads);
+		fr.close();
+		List finToken=new ArrayList<Token>();
+		List finSymbol=new ArrayList<Token>();
+		List tokens=new analysizer().analyse(reads,finToken);
+		List symbols=new analysizer().generateSymbol(finToken,finSymbol);
+		int a=0;
+		return symbols ;
+	}
 
 }
 

@@ -19112,3 +19112,43 @@ Caused by: java.net.SocketException: Connection reset
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-21 23:10:50.603
 !MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.
+!SESSION 2020-11-22 16:45:02.731 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-22 16:45:14.713
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 16:51:14.177
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting.jar!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 16:51:54.846
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.
+!SESSION 2020-11-22 20:25:28.622 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-22 20:25:41.615
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 20:34:34.905
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting.jar!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 20:35:12.553
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.

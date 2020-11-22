@@ -102,6 +102,84 @@ public class Grammer {
 		else {System.out.println("Error");
 				return new String[] {"ERROR"};
 		}
-		}
-	
-	}
+		}//METHOD
+	public int priority(String a,String b) {
+	    if("21".equals(a)&&( "11".equals(b)||"1".equals(b)||"10".equals(b)||
+	            "15".equals(b)||"7".equals(b)||"21".equals(b)||
+	            "33".equals(b)||"37".equals(b)||"34".equals(b)||
+	            "36".equals(b)||"38".equals(b)||"35".equals(b)||"23".equals(b)||
+	            "24".equals(b)||"25".equals(b)||"26".equals(b)||
+	            "18".equals(b)||"19".equals(b))||"20".equals(b) ) 
+	    {return 1;}
+	    else if ( ("22".equals(b)||"11".equals(b)) 
+	            && ( "11".equals(a)||"1".equals(a)||"10".equals(a)||
+	                    "18".equals(a)||"15".equals(a)||"7".equals(a)||
+	                    "22".equals(a)||"23".equals(a)||"24".equals(a)||
+	                    "25".equals(a)||"26".equals(a)||"34".equals(a)||
+	                    "36".equals(a)||"33".equals(a)||"37".equals(a)||
+	                    "38".equals(a)||"35".equals(a)||"19".equals(a)||
+	                    "20".equals(a)) ) 
+	    {return 3;}
+	    else if ("11".equals(a)&&( "1".equals(b)||"10".equals(b)||"18".equals(b)||
+                "15".equals(b)||"7".equals(b)||"21".equals(b)||
+                "34".equals(b)||"36".equals(b)||"33".equals(b)||
+                "37".equals(b)||"38".equals(b)||"35".equals(b)||"23".equals(b)||
+                "24".equals(b)||"25".equals(b)||"26".equals(b)||
+                "19".equals(b))||"20".equals(b)) 
+	    {return 1;}
+	    else if ( ("1".equals(b)) 
+                && ( "1".equals(a)||"10".equals(a)||
+                        "18".equals(a)||"15".equals(a)||"7".equals(a)||
+                        "22".equals(a)||"23".equals(a)||"24".equals(a)||
+                        "25".equals(a)||"26".equals(a)||"34".equals(a)||
+                        "36".equals(a)||"33".equals(a)||"37".equals(a)||
+                        "38".equals(a)||"35".equals(a)||"19".equals(a)||
+                        "20".equals(a)) ) 
+        {return 3;}
+	    else if (("1".equals(a)||"10".equals(a))&&
+	            ("10".equals(b)||"18".equals(b)||
+                "15".equals(b)||"7".equals(b)||"21".equals(b)||
+                "34".equals(b)||"36".equals(b)||"33".equals(b)||
+                "37".equals(b)||"38".equals(b)||"35".equals(b)||"23".equals(b)||
+                "24".equals(b)||"25".equals(b)||"26".equals(b)||
+                "19".equals(b))||"20".equals(b)  ) 
+        {return 1;}
+	    else if ( ("22".equals(a)||"23".equals(a)||"25".equals(a)
+	            ||"26".equals(a)||"18".equals(a)||"19".equals(a)) 
+	            ||"20".equals(a)||"22".equals(a)
+                && ( "11".equals(b)||"1".equals(b)||"10".equals(b)||
+                        "18".equals(b)||"15".equals(b)||"7".equals(b)
+                         ) )
+        {return 3;}
+	    else if ( ("34".equals(a)||"36".equals(a)||"33".equals(a)
+                ||"37".equals(a)||"38".equals(a)||"35".equals(a)) 
+                && ( "23".equals(b)||"24".equals(b)||"25".equals(b)||
+                        "26".equals(b)||"18".equals(b)||"19".equals(b)
+                        ||"20".equals(b)||"21".equals(b)
+                         ) )
+        {return 1;}
+	    else if ( ("23".equals(a)||"24".equals(a)) 
+                && ( 
+                        "25".equals(b)||"26".equals(b)||
+                        "20".equals(b)||"18".equals(b)||"19".equals(b)
+                        ||"21".equals(b)
+                   ) 
+                )
+        {return 1;}
+	    else if ( ("25".equals(a)||"26".equals(a)) 
+                && ( 
+                        "18".equals(b)||"19".equals(b)||
+                        "20".equals(b)||"21".equals(b)
+                   ) 
+                )
+        {return 1;}
+	    else if ( 
+	                "21".equals(a)&&"22".equals(b)
+                )
+        {return 2;}
+	    else {
+            return 114514;
+        }
+	  //1< 2= 3>
+    }//priority
+	}//CLASS

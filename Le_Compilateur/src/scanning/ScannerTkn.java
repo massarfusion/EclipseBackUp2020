@@ -243,12 +243,12 @@ public class ScannerTkn {
 		char[] reads=new char[len+1];
 		fr.read(reads);
 		fr.close();
-		List finToken=new ArrayList<Token>();
+		List<Token> finToken=new ArrayList<Token>();
 		List finSymbol=new ArrayList<Token>();
-		List tokens=new analysizer().analyse(reads,finToken);
+		List<Map> tokens=new analysizer().analyse(reads,finToken);
 		List symbols=new analysizer().generateSymbol(finToken,finSymbol);
 		int a=0;
-		return tokens ;
+		return finToken ;
 	}
 	public List<Token> listSym() throws IOException {
 		File origin=new File("D:\\data.txt");
@@ -257,12 +257,12 @@ public class ScannerTkn {
 		char[] reads=new char[len+1];
 		fr.read(reads);
 		fr.close();
-		List finToken=new ArrayList<Token>();
-		List finSymbol=new ArrayList<Token>();
+		ArrayList<Token> finToken=new ArrayList<Token>();
+		ArrayList<Token> finSymbol=new ArrayList<Token>();
 		List tokens=new analysizer().analyse(reads,finToken);
 		List symbols=new analysizer().generateSymbol(finToken,finSymbol);
 		int a=0;
-		return symbols ;
+		return finSymbol ;
 	}
 
 }

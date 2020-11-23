@@ -1,5 +1,6 @@
 package grammar;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
@@ -16,11 +17,64 @@ public class Grammer {
 		readStack.push("#");
 		processStack.push("#");
 		processStack.push("L");
-		for (int i=tokens.size();i>0;i--) {
+		for (int i=tokens.size()-1;i>0;i--) {
 			readStack.push(tokens.get(i).getCode());
 		}
+		int a=0;
+		boolean success=decrease(processStack,readStack);
 	}
-	public String[] getSeq(String waiting,String coming) {
+	
+	public static boolean decrease(Stack<String>processStack,Stack<String>readStack) {
+        while (!  ( "#".equals(processStack.peek())&&"#".equals(readStack.peek()) ) ) {
+            if (!processStack.peek().equals("B")) {
+                String left=processStack.peek();//产生式左部
+                String[] tmpSq=getSeq(processStack.peek(), readStack.peek()); //产生式右部
+                processStack.pop();
+                for (int i=0;i<tmpSq.length;i++) {
+                    String tmp=tmpSq[tmpSq.length-i-1];
+                    if("".equals(tmp)) {continue;}
+                    else {
+                        ;
+                    }
+                    processStack.push(tmp);
+                }
+                while (readStack.peek().equals(processStack.peek())) {
+                    readStack.pop();
+                    processStack.pop();
+                }
+            }            
+            else {
+                priAna(processStack, readStack);
+            }
+        }//major while loop
+        
+	    
+	    return true;
+    }//递归下降
+	
+	public static boolean priAna(Stack<String>processStack,Stack<String>readStack) {
+	    processStack.pop();
+	    Stack<String> right=new Stack<String>();
+	    Stack<String> left=new Stack<String>();
+	    Stack<String> rightTmp=new Stack<String>();
+	    right.push("#");left.push("#");
+	    while (!"14".equals(readStack.peek())) {
+            rightTmp.push(readStack.pop());
+        }
+	    while (!rightTmp.empty()) {
+            right.push(rightTmp.pop());
+        }
+	    
+	    return false;
+    }//算符优先分析法
+	
+	
+	
+	
+	
+	
+	
+	public static String[] getSeq(String waiting,String coming) {
 		//L
 		if ("L".equals(waiting)&&"18".equals(coming)){return new String[]{"S","Z"};}
 		else if ("L".equals(waiting)&&"8".equals(coming)){return new String[]{"S","Z"};}
@@ -103,7 +157,7 @@ public class Grammer {
 				return new String[] {"ERROR"};
 		}
 		}//METHOD
-	public int priority(String a,String b) {
+	public static int priority(String a,String b) {
 	    if("21".equals(a)&&( "11".equals(b)||"1".equals(b)||"10".equals(b)||
 	            "15".equals(b)||"7".equals(b)||"21".equals(b)||
 	            "33".equals(b)||"37".equals(b)||"34".equals(b)||
@@ -112,12 +166,12 @@ public class Grammer {
 	            "18".equals(b)||"19".equals(b))||"20".equals(b) ) 
 	    {return 1;}
 	    else if ( ("22".equals(b)||"11".equals(b)) 
-	            && ( "11".equals(a)||"1".equals(a)||"10".equals(a)||
-	                    "18".equals(a)||"15".equals(a)||"7".equals(a)||
+	            && ( "11".equals(a)||"1".equals(a)||"10".equals(a)
+	                    ||"15".equals(a)||"7".equals(a)||
 	                    "22".equals(a)||"23".equals(a)||"24".equals(a)||
 	                    "25".equals(a)||"26".equals(a)||"34".equals(a)||
 	                    "36".equals(a)||"33".equals(a)||"37".equals(a)||
-	                    "38".equals(a)||"35".equals(a)||"19".equals(a)||
+	                    "38".equals(a)||"35".equals(a)||"19".equals(a)||"18".equals(a)||
 	                    "20".equals(a)) ) 
 	    {return 3;}
 	    else if ("11".equals(a)&&( "1".equals(b)||"10".equals(b)||"18".equals(b)||
@@ -142,13 +196,14 @@ public class Grammer {
                 "34".equals(b)||"36".equals(b)||"33".equals(b)||
                 "37".equals(b)||"38".equals(b)||"35".equals(b)||"23".equals(b)||
                 "24".equals(b)||"25".equals(b)||"26".equals(b)||
-                "19".equals(b))||"20".equals(b)  ) 
+                "19".equals(b))||"20".equals(b) ||"21".equals(b) ) 
         {return 1;}
 	    else if ( ("22".equals(a)||"23".equals(a)||"25".equals(a)
 	            ||"26".equals(a)||"18".equals(a)||"19".equals(a)) 
-	            ||"20".equals(a)||"22".equals(a)
-                && ( "11".equals(b)||"1".equals(b)||"10".equals(b)||
-                        "18".equals(b)||"15".equals(b)||"7".equals(b)
+	            ||"20".equals(a)||"24".equals(a)
+                && ( "34".equals(b)||"33".equals(b)||"36".equals(b)||
+                        "37".equals(b)||"38".equals(b)||"35".equals(b)
+                        ||"23".equals(b)||"24".equals(b)
                          ) )
         {return 3;}
 	    else if ( ("34".equals(a)||"36".equals(a)||"33".equals(a)
@@ -166,20 +221,52 @@ public class Grammer {
                    ) 
                 )
         {return 1;}
-	    else if ( ("25".equals(a)||"26".equals(a)) 
+	    else if ( ("25".equals(b)||"26".equals(b)) 
                 && ( 
                         "18".equals(b)||"19".equals(b)||
                         "20".equals(b)||"21".equals(b)
                    ) 
                 )
         {return 1;}
+	    else if ( ("#".equals(a)) 
+                && ( 
+                        "33".equals(b)||"15".equals(b)||
+                        "7".equals(b)||"21".equals(b)||"34".equals(b)
+                        ||"35".equals(b)||"36".equals(b)||"37".equals(b)
+                        ||"38".equals(b)||"18".equals(b)||"23".equals(b)
+                        ||"24".equals(b)||"25".equals(b)||"26".equals(b)
+                        ||"20".equals(b)||"19".equals(b)
+                   ) 
+                )
+        {return 1;}//#1
+	    else if ( 
+	            ("#".equals(b)) 
+                && ( "21".equals(a)||"15".equals(a)||
+                        "7".equals(a)||"25".equals(a)||"26".equals(a)||
+                        "18".equals(a)||"19".equals(a)||"20".equals(a)||
+                        "22".equals(a)||"23".equals(a)||"24".equals(a)||
+                        "34".equals(a)||"36".equals(a)||"33".equals(a)||
+                        "37".equals(a)||"38".equals(a)||"35".equals(a)
+                ))
+        {return 3;}//#2
 	    else if ( 
 	                "21".equals(a)&&"22".equals(b)
                 )
         {return 2;}
+	    else if (
+	         (   "25".equals(a)||"26".equals(a)||"22".equals(a)||
+	            "18".equals(a)||"19".equals(a)||"20".equals(a)  )
+	         &&
+	         (  "25".equals(b)||"26".equals(b)   )
+            )
+	    {return 2;}
 	    else {
             return 114514;
         }
 	  //1< 2= 3>
     }//priority
+	public static String declude(String input) {
+        
+	    return null;
+    }
 	}//CLASS

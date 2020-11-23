@@ -19152,3 +19152,3541 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 20:35:12.553
 !MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:07.910
+!MESSAGE Cannot handle grammar [in src [in Le_Compilateur]]
+  [Working copy] Grammer.java
+    package grammar
+    import java.io.IOException
+    import java.util.List
+    import java.util.Stack
+    import scanning.*
+    class Grammer
+      static void main(String[])
+      static boolean decrease(Stack<String>, Stack<String>)
+      static boolean priAna(Stack<String>, Stack<String>)
+      String[] getSeq(String, String)
+      int priority(String, String)
+  package-info.java
+    package grammar as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:36.487
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:36.489
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:36.489
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:36.490
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:36.491
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:26:41.865
+!MESSAGE Cannot handle grammar [in src [in Le_Compilateur]]
+  [Working copy] Grammer.java
+    package grammar
+    import java.io.IOException
+    import java.util.List
+    import java.util.Stack
+    import scanning.*
+    class Grammer
+      static void main(String[])
+      static boolean decrease(Stack<String>, Stack<String>)
+      static boolean priAna(Stack<String>, Stack<String>)
+      static String[] getSeq(String, String)
+      static int priority(String, String)
+  package-info.java
+    package grammar as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:32:12.972
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:32:12.973
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:32:12.973
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:32:12.974
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:32:12.975
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:03.021
+!MESSAGE Cannot handle images (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:03.022
+!MESSAGE Cannot handle images.toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:03.023
+!MESSAGE Cannot handle images.toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:27.100
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:27.101
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:27.102
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:27.102
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:27.103
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:31.755
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:31.756
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:31.757
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:31.758
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:31.758
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:37.347
+!MESSAGE Cannot handle images (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:37.348
+!MESSAGE Cannot handle images.toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:34:37.348
+!MESSAGE Cannot handle images.toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:03.299
+!MESSAGE Cannot handle images (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:03.299
+!MESSAGE Cannot handle images.toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:03.300
+!MESSAGE Cannot handle images.toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:05.328
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:05.329
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:05.330
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:05.331
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:46:05.332
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:24.258
+!MESSAGE Cannot handle images (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:24.259
+!MESSAGE Cannot handle images.toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:24.259
+!MESSAGE Cannot handle images.toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:27.568
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:27.569
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:27.569
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:27.570
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:27.570
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:48.936
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:48.937
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:48.937
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:48.938
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-22 21:50:48.938
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+!SESSION 2020-11-22 22:14:24.499 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-22 22:14:38.609
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-11-22 22:55:41.844 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-22 22:57:04.899
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 22:57:19.818
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting.jar!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-22 23:00:06.731
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.
+!SESSION 2020-11-23 09:54:24.707 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-23 09:54:41.193
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-23 10:31:59.782
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting.jar!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-23 10:32:16.289
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.
+!SESSION 2020-11-23 16:04:12.449 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-23 16:04:24.742
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:12:51.715
+!MESSAGE Cannot handle netscape.javascript (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:12:51.716
+!MESSAGE Cannot handle netscape (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:23.287
+!MESSAGE Cannot handle netscape.javascript (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:23.288
+!MESSAGE Cannot handle netscape (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.943
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor.protocol.local (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.944
+!MESSAGE Cannot handle sun.java2d.pipe (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.945
+!MESSAGE Cannot handle sun.jvm.hotspot.ui.resources (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.946
+!MESSAGE Cannot handle sun.reflect.generics.visitor (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.947
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.948
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.948
+!MESSAGE Cannot handle sun.swing.plaf (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.949
+!MESSAGE Cannot handle sun.jvm.hotspot.ui.classbrowser (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.950
+!MESSAGE Cannot handle sun.instrument (not open) [in <module:java.instrument>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.951
+!MESSAGE Cannot handle sun.rmi.registry (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.952
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.952
+!MESSAGE Cannot handle sun (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.953
+!MESSAGE Cannot handle sun.tools.serialver.resources (not open) [in <module:jdk.compiler>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.954
+!MESSAGE Cannot handle sun.font.lookup (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.954
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.955
+!MESSAGE Cannot handle sun.net.www.protocol.jmod (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.956
+!MESSAGE Cannot handle sun.jvm.hotspot.ui.tree (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.957
+!MESSAGE Cannot handle sun.reflect.generics.repository (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.958
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor.v2_0 (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.959
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.ppc64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.960
+!MESSAGE Cannot handle sun.java2d [in <module:java.desktop>]
+  DefaultDisposerRecord.class (not open)
+  DestSurfaceProvider.class (not open)
+  Disposer$1.class (not open)
+  Disposer$PollDisposable.class (not open)
+  Disposer.class (not open)
+  DisposerRecord.class (not open)
+  DisposerTarget.class (not open)
+  FontSupport.class (not open)
+  HeadlessGraphicsEnvironment.class (not open)
+  InvalidPipeException.class (not open)
+  NullSurfaceData.class (not open)
+  ReentrantContext.class (not open)
+  ReentrantContextProvider$HardReference.class (not open)
+  ReentrantContextProvider.class (not open)
+  ReentrantContextProviderCLQ.class (not open)
+  ReentrantContextProviderTL$1.class (not open)
+  ReentrantContextProviderTL.class (not open)
+  ScreenUpdateManager.class (not open)
+  Spans$Span.class (not open)
+  Spans$SpanIntersection.class (not open)
+  Spans.class (not open)
+  StateTrackable$State.class
+    enum State
+  StateTrackable.class
+    interface StateTrackable
+  StateTrackableDelegate$1.class (not open)
+  StateTrackableDelegate$2.class (not open)
+  StateTrackableDelegate.class
+    class StateTrackableDelegate
+  StateTracker$1.class (not open)
+  StateTracker$2.class (not open)
+  StateTracker.class
+    interface StateTracker
+  SunCompositeContext.class (not open)
+  SunGraphics2D.class (not open)
+  SunGraphicsEnvironment$1.class (not open)
+  SunGraphicsEnvironment.class (not open)
+  Surface.class (not open)
+  SurfaceData$PixelToPgramLoopConverter.class (not open)
+  SurfaceData$PixelToShapeLoopConverter.class (not open)
+  SurfaceData.class (not open)
+  SurfaceDataProxy$1.class (not open)
+  SurfaceDataProxy$CountdownTracker.class (not open)
+  SurfaceDataProxy.class (not open)
+  SurfaceManagerFactory.class (not open)
+  WindowsSurfaceManagerFactory.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.961
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.shared [in <module:jdk.hotspot.agent>]
+  CardGeneration.class (not open)
+  CollectedHeap$1.class (not open)
+  CollectedHeap.class (not open)
+  CollectedHeapName.class (not open)
+  CompactibleSpace$1.class (not open)
+  CompactibleSpace.class (not open)
+  ContiguousSpace$1.class (not open)
+  ContiguousSpace.class (not open)
+  G1HeapRegionType.class (not open)
+  G1YCType.class (not open)
+  GCCause.class (not open)
+  GCName.class (not open)
+  GCWhen.class (not open)
+  GenCollectedHeap$1.class (not open)
+  GenCollectedHeap.class (not open)
+  Generation$1.class (not open)
+  Generation$Name.class
+    class Name
+  Generation$StatRecord.class
+    class StatRecord
+  Generation.class (not open)
+  GenerationFactory$1.class (not open)
+  GenerationFactory$2.class (not open)
+  GenerationFactory.class (not open)
+  GenerationIsInClosure.class (not open)
+  GenerationSpec$1.class (not open)
+  GenerationSpec.class (not open)
+  OffsetTableContigSpace.class (not open)
+  OopStorage$1.class (not open)
+  OopStorage.class (not open)
+  PrintRegionClosure.class (not open)
+  Space$1.class (not open)
+  Space.class (not open)
+  SpaceClosure.class (not open)
+  TenuredSpace.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.961
+!MESSAGE Cannot handle sun.util.resources.provider (not open) [in <module:jdk.localedata>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.962
+!MESSAGE Cannot handle sun.net.www.protocol.file (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.963
+!MESSAGE Cannot handle sun.tools.javac.resources (not open) [in <module:jdk.rmic>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.964
+!MESSAGE Cannot handle sun.swing.text (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.964
+!MESSAGE Cannot handle sun.java2d.marlin.stats [in <module:java.desktop>]
+  Histogram.class (not open)
+  Monitor.class (not open)
+  StatLong.class
+    class StatLong as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.965
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.win32_amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.966
+!MESSAGE Cannot handle sun.io (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.986
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_arm64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.988
+!MESSAGE Cannot handle sun.jvm.hotspot.classfile (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.989
+!MESSAGE Cannot handle sun.util.logging.resources (not open) [in <module:java.logging>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.989
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime [in <module:jdk.hotspot.agent>]
+  AddressVisitor.class (not open)
+  ArgumentOopFinder.class (not open)
+  ArgumentSizeComputer.class
+    class ArgumentSizeComputer
+  Arguments$1.class (not open)
+  Arguments.class
+    class Arguments
+  BasicLock$1.class (not open)
+  BasicLock.class (not open)
+  BasicObjectLock$1.class (not open)
+  BasicObjectLock.class (not open)
+  BasicType.class (not open)
+  BasicTypeSize.class (not open)
+  Bytes.class (not open)
+  ClassConstants.class
+    interface ClassConstants
+  CodeCacheSweeperThread.class (not open)
+  CompiledVFrame.class (not open)
+  CompilerThread$1.class (not open)
+  CompilerThread.class (not open)
+  ConcurrentLocksPrinter$1.class (not open)
+  ConcurrentLocksPrinter.class (not open)
+  ConstructionException.class (not open)
+  DeadlockDetector.class (not open)
+  ExternalVFrame.class (not open)
+  Flags.class (not open)
+  Frame$1.class (not open)
+  Frame$InterpVisitor.class (not open)
+  Frame.class (not open)
+  InstanceConstructor.class
+    class InstanceConstructor
+  InterpretedVFrame.class (not open)
+  InterpreterFrameClosure.class (not open)
+  JNIHandleBlock$1.class (not open)
+  JNIHandleBlock.class (not open)
+  JNIHandles$1.class (not open)
+  JNIHandles.class (not open)
+  JavaCallWrapper$1.class (not open)
+  JavaCallWrapper.class (not open)
+  JavaThread$1.class (not open)
+  JavaThread.class (not open)
+  JavaThreadFactory.class (not open)
+  JavaThreadPDAccess.class (not open)
+  JavaThreadState.class (not open)
+  JavaVFrame.class (not open)
+  JvmtiAgentThread.class (not open)
+  MonitorInfo.class (not open)
+  NativeSignatureIterator.class (not open)
+  OSThread$1.class (not open)
+  OSThread.class (not open)
+  ObjectMonitor$1.class (not open)
+  ObjectMonitor.class (not open)
+  ObjectSynchronizer$1.class (not open)
+  ObjectSynchronizer$ObjectMonitorIterator.class (not open)
+  ObjectSynchronizer.class (not open)
+  PerfDataEntry$1.class (not open)
+  PerfDataEntry$PerfDataUnits$1.class (not open)
+  PerfDataEntry$PerfDataUnits.class (not open)
+  PerfDataEntry.class (not open)
+  PerfDataPrologue$1.class (not open)
+  PerfDataPrologue.class (not open)
+  PerfMemory$1.class (not open)
+  PerfMemory$PerfDataEntryVisitor.class (not open)
+  PerfMemory.class (not open)
+  RegisterMap$1.class (not open)
+  RegisterMap.class (not open)
+  ResultTypeFinder.class (not open)
+  ServiceThread.class (not open)
+  SignatureConverter.class (not open)
+  SignatureInfo.class
+    class SignatureInfo
+  SignatureIterator.class
+    class SignatureIterator
+  StackFrameInfo.class
+    class StackFrameInfo
+  StackFrameStream.class
+    class StackFrameStream
+  StackValue.class
+    class StackValue
+  StackValueCollection.class
+    class StackValueCollection
+  StaticBaseConstructor.class
+    class StaticBaseConstructor
+  StubRoutines$1.class (not open)
+  StubRoutines.class
+    class StubRoutines
+  Thread$1.class (not open)
+  Thread.class (not open)
+  ThreadLocalAllocBuffer$1.class (not open)
+  ThreadLocalAllocBuffer.class (not open)
+  ThreadStackTrace.class (not open)
+  ThreadState.class (not open)
+  Threads$1.class (not open)
+  Threads.class (not open)
+  VFrame.class (not open)
+  VM$1.class (not open)
+  VM$2.class (not open)
+  VM$Flag.class (not open)
+  VM.class (not open)
+  VMObject.class
+    class VMObject
+  VMObjectFactory.class (not open)
+  VMOps.class (not open)
+  VMReg$1.class (not open)
+  VMReg.class (not open)
+  VMVersionMismatchException.class (not open)
+  VirtualBaseConstructor.class (not open)
+  VirtualConstructor.class (not open)
+  WatcherThread.class (not open)
+  vmSymbols$1.class (not open)
+  vmSymbols.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.990
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.991
+!MESSAGE Cannot handle sun.security.action (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.991
+!MESSAGE Cannot handle sun.net.dns (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.992
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.cms (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.992
+!MESSAGE Cannot handle sun.awt.shell (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.993
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.aarch64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.993
+!MESSAGE Cannot handle sun.net.util (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.994
+!MESSAGE Cannot handle sun.security.util.math (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.994
+!MESSAGE Cannot handle sun.security.jgss.wrapper (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.995
+!MESSAGE Cannot handle sun.swing.table (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.996
+!MESSAGE Cannot handle sun.jvm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.996
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.bsd_x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.997
+!MESSAGE Cannot handle sun.jvm.hotspot.prims (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.997
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.windows.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.998
+!MESSAGE Cannot handle sun.jvm.hotspot.asm.sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.998
+!MESSAGE Cannot handle sun.util.resources.ext (not open) [in <module:jdk.localedata>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:25.999
+!MESSAGE Cannot handle sun.rmi.transport.tcp (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.000
+!MESSAGE Cannot handle sun.tools.jconsole.resources (not open) [in <module:jdk.jconsole>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.000
+!MESSAGE Cannot handle sun.jvm.hotspot.asm.arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.001
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.001
+!MESSAGE Cannot handle sun.jvm.hotspot.utilities.memo (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.002
+!MESSAGE Cannot handle sun.tools.jstack (not open) [in <module:jdk.jcmd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.003
+!MESSAGE Cannot handle sun.security.pkcs11.wrapper (not open) [in <module:jdk.crypto.cryptoki>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.003
+!MESSAGE Cannot handle sun.tools.jar.resources (not open) [in <module:jdk.jartool>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.004
+!MESSAGE Cannot handle sun.net.www.content.text (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.004
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.solaris_amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.005
+!MESSAGE Cannot handle sun.text.resources.cldr.ext (not open) [in <module:jdk.localedata>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.005
+!MESSAGE Cannot handle sun.net.www.protocol.ftp (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.006
+!MESSAGE Cannot handle sun.reflect.generics.reflectiveObjects (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.006
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.007
+!MESSAGE Cannot handle sun.security.jgss.spnego (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.008
+!MESSAGE Cannot handle sun.awt.im (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.008
+!MESSAGE Cannot handle sun.jvm.hotspot.asm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.009
+!MESSAGE Cannot handle sun.security.jgss.spi (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.009
+!MESSAGE Cannot handle sun.security.x509 (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.010
+!MESSAGE Cannot handle sun.jvm.hotspot.gc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.010
+!MESSAGE Cannot handle sun.net.www.protocol (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.011
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.posix (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.011
+!MESSAGE Cannot handle sun.util.locale.provider (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.012
+!MESSAGE Cannot handle sun.security.tools (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.013
+!MESSAGE Cannot handle sun.java2d.loops (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.013
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.bsd (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.014
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.014
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.015
+!MESSAGE Cannot handle sun.java2d.cmm.lcms (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.015
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.epsilon (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.016
+!MESSAGE Cannot handle sun.swing.icon (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.017
+!MESSAGE Cannot handle sun.reflect (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.017
+!MESSAGE Cannot handle sun.swing.plaf.synth [in <module:java.desktop>]
+  DefaultSynthStyle$StateInfo.class
+    class StateInfo
+  DefaultSynthStyle.class (not open)
+  Paint9Painter$PaintType.class (not open)
+  Paint9Painter.class (not open)
+  StyleAssociation.class
+    class StyleAssociation
+  SynthFileChooserUI$1.class (not open)
+  SynthFileChooserUI$DelayedSelectionUpdater.class (not open)
+  SynthFileChooserUI$FileNameCompletionAction.class (not open)
+  SynthFileChooserUI$GlobFilter.class (not open)
+  SynthFileChooserUI$SynthFCPropertyChangeListener.class (not open)
+  SynthFileChooserUI$UIBorder.class (not open)
+  SynthFileChooserUI.class (not open)
+  SynthFileChooserUIImpl$1.class (not open)
+  SynthFileChooserUIImpl$2.class (not open)
+  SynthFileChooserUIImpl$3.class (not open)
+  SynthFileChooserUIImpl$4.class (not open)
+  SynthFileChooserUIImpl$AlignedLabel.class (not open)
+  SynthFileChooserUIImpl$ButtonAreaLayout.class (not open)
+  SynthFileChooserUIImpl$DirectoryComboBoxAction.class (not open)
+  SynthFileChooserUIImpl$DirectoryComboBoxModel.class (not open)
+  SynthFileChooserUIImpl$DirectoryComboBoxRenderer.class (not open)
+  SynthFileChooserUIImpl$FilterComboBoxModel.class (not open)
+  SynthFileChooserUIImpl$FilterComboBoxRenderer.class (not open)
+  SynthFileChooserUIImpl$IndentIcon.class (not open)
+  SynthFileChooserUIImpl$SynthFileChooserUIAccessor.class (not open)
+  SynthFileChooserUIImpl.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.018
+!MESSAGE Cannot handle sun.jvm.hotspot.tools.soql (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.019
+!MESSAGE Cannot handle sun.invoke.empty (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.019
+!MESSAGE Cannot handle sun.reflect.generics.parser (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.020
+!MESSAGE Cannot handle sun.security.provider.certpath.ldap (not open) [in <module:java.naming>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.020
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.g1 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.021
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.solaris_sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.022
+!MESSAGE Cannot handle sun.java2d.cmm (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.022
+!MESSAGE Cannot handle sun.security.rsa (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.023
+!MESSAGE Cannot handle sun.jvm.hotspot.ui.table (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.023
+!MESSAGE Cannot handle sun.security.internal (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.024
+!MESSAGE Cannot handle sun.util.resources.cldr.provider (not open) [in <module:jdk.localedata>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.024
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.025
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.025
+!MESSAGE Cannot handle sun.tools.jcmd (not open) [in <module:jdk.jcmd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.026
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.aarch64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.026
+!MESSAGE Cannot handle sun.tools.asm [in <module:jdk.rmic>]
+  ArrayData.class
+    class ArrayData
+  Assembler.class (not open)
+  CatchData.class (not open)
+  ClassConstantData.class (not open)
+  ConstantPool.class (not open)
+  ConstantPoolData.class (not open)
+  Cover.class (not open)
+  FieldConstantData.class (not open)
+  Instruction.class (not open)
+  Label.class (not open)
+  LocalVariable.class (not open)
+  LocalVariableTable.class (not open)
+  NameAndTypeConstantData.class (not open)
+  NameAndTypeData.class (not open)
+  NumberConstantData.class (not open)
+  StringConstantData.class (not open)
+  StringExpressionConstantData.class (not open)
+  SwitchData.class (not open)
+  SwitchDataEnumeration.class (not open)
+  TryData.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.027
+!MESSAGE Cannot handle sun.jvm.hotspot.types.basic (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.027
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.cdbg [in <module:jdk.hotspot.agent>]
+  AccessControl.class (not open)
+  ArrayType.class
+    interface ArrayType
+  BaseClass.class (not open)
+  BitType.class (not open)
+  BlockSym.class (not open)
+  CDebugInfoDataBase.class (not open)
+  CDebugger.class (not open)
+  CFrame.class (not open)
+  CVAttributes.class (not open)
+  ClosestSymbol.class (not open)
+  CompoundType.class (not open)
+  DebugEvent$Type.class (not open)
+  DebugEvent.class (not open)
+  DefaultObjectVisitor.class (not open)
+  DoubleType.class (not open)
+  EnumType.class (not open)
+  Field.class (not open)
+  FieldIdentifier.class (not open)
+  FloatType.class (not open)
+  FunctionSym.class (not open)
+  FunctionType.class (not open)
+  GlobalSym.class (not open)
+  IndexableFieldIdentifier.class (not open)
+  IntType.class (not open)
+  LineNumberInfo.class (not open)
+  LineNumberVisitor.class (not open)
+  LoadObject.class (not open)
+  LoadObjectComparator.class (not open)
+  LocalSym.class (not open)
+  MemberFunctionType.class (not open)
+  NamedFieldIdentifier.class (not open)
+  ObjectVisitor.class (not open)
+  PointerType.class (not open)
+  ProcessControl.class (not open)
+  RefType.class (not open)
+  Sym.class (not open)
+  TemplateType.class (not open)
+  Type.class
+    interface Type
+  TypeVisitor.class (not open)
+  VoidType.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.028
+!MESSAGE Cannot handle sun.java2d.cmm.profiles (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.028
+!MESSAGE Cannot handle sun.net.www.protocol.http.logging (not open) [in <module:java.logging>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.029
+!MESSAGE Cannot handle sun.security.krb5.internal.rcache (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.029
+!MESSAGE Cannot handle sun.print.resources (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.029
+!MESSAGE Cannot handle sun.awt.geom [in <module:java.desktop>]
+  AreaOp$1.class (not open)
+  AreaOp$AddOp.class (not open)
+  AreaOp$CAGOp.class (not open)
+  AreaOp$EOWindOp.class (not open)
+  AreaOp$IntOp.class (not open)
+  AreaOp$NZWindOp.class
+    class NZWindOp
+  AreaOp$SubOp.class (not open)
+  AreaOp$XorOp.class (not open)
+  AreaOp.class
+    class AreaOp
+  ChainEnd.class (not open)
+  Crossings$EvenOdd.class (not open)
+  Crossings$NonZero.class
+    class NonZero
+  Crossings.class (not open)
+  Curve.class (not open)
+  CurveLink.class (not open)
+  Edge.class (not open)
+  Order0.class (not open)
+  Order1.class (not open)
+  Order2.class (not open)
+  Order3.class (not open)
+  PathConsumer2D.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.030
+!MESSAGE Cannot handle sun.jvm.hotspot.ui (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.030
+!MESSAGE Cannot handle sun.awt.www.content (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.031
+!MESSAGE Cannot handle sun.jvmstat (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.031
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.032
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.032
+!MESSAGE Cannot handle sun.security.validator (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.033
+!MESSAGE Cannot handle sun.awt.image (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.033
+!MESSAGE Cannot handle sun.awt.dnd (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.034
+!MESSAGE Cannot handle sun.util.calendar (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.034
+!MESSAGE Cannot handle sun.awt.event (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.035
+!MESSAGE Cannot handle sun.tools.jstat [in <module:jdk.jcmd>]
+  Alignment$1.class (not open)
+  Alignment$2.class (not open)
+  Alignment$3.class (not open)
+  Alignment.class (not open)
+  Arguments.class
+    class Arguments
+  AscendingMonitorComparator.class (not open)
+  Closure.class (not open)
+  ColumnFormat.class (not open)
+  DescendingMonitorComparator.class (not open)
+  Expression.class (not open)
+  ExpressionEvaluator.class (not open)
+  ExpressionExecuter.class (not open)
+  ExpressionResolver.class (not open)
+  HeaderClosure.class (not open)
+  Identifier.class (not open)
+  JStatLogger.class (not open)
+  Jstat$1.class (not open)
+  Jstat$2.class (not open)
+  Jstat.class (not open)
+  Literal.class (not open)
+  Operator$1.class (not open)
+  Operator$2.class (not open)
+  Operator$3.class (not open)
+  Operator$4.class (not open)
+  Operator.class (not open)
+  OptionFinder.class (not open)
+  OptionFormat.class (not open)
+  OptionLister$1.class (not open)
+  OptionLister.class (not open)
+  OptionOutputFormatter.class (not open)
+  OutputFormatter.class (not open)
+  Parser.class (not open)
+  ParserException.class (not open)
+  RawOutputFormatter.class (not open)
+  RowClosure.class (not open)
+  Scale.class (not open)
+  SymbolResolutionClosure.class (not open)
+  SyntaxException.class (not open)
+  Token.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.035
+!MESSAGE Cannot handle sun.management.jmxremote (not open) [in <module:jdk.management.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.036
+!MESSAGE Cannot handle sun.security.provider.certpath (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.036
+!MESSAGE Cannot handle sun.security.krb5.internal.ktab (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.037
+!MESSAGE Cannot handle sun.net.www.protocol.http.ntlm (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.037
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.arm64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.038
+!MESSAGE Cannot handle sun.net.ftp (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.038
+!MESSAGE Cannot handle sun.usagetracker (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.039
+!MESSAGE Cannot handle sun.awt.www (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.039
+!MESSAGE Cannot handle sun.datatransfer.resources (not open) [in <module:java.datatransfer>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.040
+!MESSAGE Cannot handle sun.jvm.hotspot.oops [in <module:jdk.hotspot.agent>]
+  AccessFlags.class (not open)
+  ArgInfoData.class
+    class ArgInfoData
+  Array$1.class (not open)
+  Array.class
+    class Array
+  ArrayData.class
+    class ArrayData
+  ArrayKlass$1.class (not open)
+  ArrayKlass.class
+    class ArrayKlass
+  BitData.class (not open)
+  BooleanField.class (not open)
+  BranchData.class (not open)
+  BreakpointInfo$1.class (not open)
+  BreakpointInfo.class (not open)
+  ByteField.class (not open)
+  CIntField.class (not open)
+  CallTypeData.class (not open)
+  CallTypeDataInterface.class (not open)
+  CellTypeState.class (not open)
+  CellTypeStateList.class (not open)
+  CharField.class (not open)
+  CheckedExceptionElement$1.class (not open)
+  CheckedExceptionElement.class (not open)
+  CompiledICHolder$1.class (not open)
+  CompiledICHolder.class (not open)
+  CompressedLineNumberReadStream.class (not open)
+  ConstMethod$1.class (not open)
+  ConstMethod.class (not open)
+  ConstantPool$1.class (not open)
+  ConstantPool$CPKlassSlot.class (not open)
+  ConstantPool$CPSlot.class (not open)
+  ConstantPool.class (not open)
+  ConstantPoolCache$1.class (not open)
+  ConstantPoolCache.class (not open)
+  ConstantPoolCacheEntry$1.class (not open)
+  ConstantPoolCacheEntry.class (not open)
+  CounterData.class (not open)
+  DataLayout.class (not open)
+  DefaultHeapVisitor.class (not open)
+  DefaultMetadataVisitor.class (not open)
+  DefaultOopVisitor.class (not open)
+  DoubleField.class (not open)
+  ExceptionTableElement$1.class (not open)
+  ExceptionTableElement.class (not open)
+  Field.class (not open)
+  FieldIdentifier.class (not open)
+  FieldType$ArrayInfo.class (not open)
+  FieldType.class (not open)
+  FieldVisitor.class (not open)
+  FloatField.class (not open)
+  GenerateOopMap$1.class (not open)
+  GenerateOopMap$2.class (not open)
+  GenerateOopMap$3.class (not open)
+  GenerateOopMap$4.class (not open)
+  GenerateOopMap$BasicBlock.class (not open)
+  GenerateOopMap$ComputeCallStack.class (not open)
+  GenerateOopMap$ComputeEntryStack.class (not open)
+  GenerateOopMap$JumpClosure.class (not open)
+  GenerateOopMap$RetTable.class (not open)
+  GenerateOopMap$RetTableEntry.class (not open)
+  GenerateOopMap.class (not open)
+  HeapPrinter.class (not open)
+  HeapVisitor.class (not open)
+  IndexableFieldIdentifier.class (not open)
+  Instance$1.class (not open)
+  Instance.class (not open)
+  InstanceClassLoaderKlass$1.class (not open)
+  InstanceClassLoaderKlass.class (not open)
+  InstanceKlass$1.class (not open)
+  InstanceKlass$ClassState.class (not open)
+  InstanceKlass$EnclosingMethodAttributeOffset$1.class (not open)
+  InstanceKlass$EnclosingMethodAttributeOffset.class (not open)
+  InstanceKlass$InnerClassAttributeOffset$1.class (not open)
+  InstanceKlass$InnerClassAttributeOffset.class (not open)
+  InstanceKlass$StaticField.class
+    class StaticField
+  InstanceKlass.class (not open)
+  InstanceMirrorKlass$1.class (not open)
+  InstanceMirrorKlass.class (not open)
+  InstanceRefKlass$1.class (not open)
+  InstanceRefKlass.class (not open)
+  IntField.class (not open)
+  JVMDIClassStatus.class (not open)
+  JumpData.class (not open)
+  Klass$1.class (not open)
+  Klass.class
+    class Klass
+  LineNumberTableElement.class (not open)
+  LocalVariableTableElement$1.class (not open)
+  LocalVariableTableElement.class (not open)
+  LongField.class (not open)
+  Mark$1.class (not open)
+  Mark.class (not open)
+  Metadata$1.class (not open)
+  Metadata.class
+    class Metadata
+  MetadataField.class (not open)
+  MetadataVisitor.class (not open)
+  Method$1.class (not open)
+  Method.class (not open)
+  MethodCounters$1.class (not open)
+  MethodCounters.class (not open)
+  MethodData$1.class (not open)
+  MethodData.class (not open)
+  MethodDataInterface.class (not open)
+  MultiBranchData.class (not open)
+  MutationException.class (not open)
+  NamedFieldIdentifier.class (not open)
+  NarrowKlassField.class (not open)
+  NarrowOopField.class (not open)
+  ObjArray$1.class (not open)
+  ObjArray.class (not open)
+  ObjArrayKlass$1.class (not open)
+  ObjArrayKlass.class (not open)
+  ObjectHeap$1.class (not open)
+  ObjectHeap$2.class (not open)
+  ObjectHeap$3.class (not open)
+  ObjectHeap$LiveRegionsCollector.class (not open)
+  ObjectHeap$ObjectFilter.class (not open)
+  ObjectHeap.class (not open)
+  ObjectHistogram$1.class (not open)
+  ObjectHistogram.class (not open)
+  ObjectHistogramElement.class (not open)
+  Oop$1.class (not open)
+  Oop.class
+    class Oop
+  OopField.class (not open)
+  OopPrinter.class (not open)
+  OopUtilities$1.class (not open)
+  OopUtilities.class (not open)
+  OopVisitor.class (not open)
+  ParametersTypeData.class (not open)
+  ProfileData.class
+    class ProfileData
+  RawHeapVisitor.class (not open)
+  ReceiverTypeData.class (not open)
+  RetData.class (not open)
+  ReturnTypeEntry.class (not open)
+  ShortField.class (not open)
+  SpeculativeTrapData.class (not open)
+  Symbol$1.class (not open)
+  Symbol.class (not open)
+  TypeArray$1.class (not open)
+  TypeArray.class (not open)
+  TypeArrayKlass$1.class (not open)
+  TypeArrayKlass.class (not open)
+  TypeEntries.class (not open)
+  TypeEntriesAtCall.class (not open)
+  TypeStackSlotEntries.class (not open)
+  UnknownOopException.class (not open)
+  VirtualCallData.class (not open)
+  VirtualCallTypeData.class (not open)
+  java_lang_Class$1.class (not open)
+  java_lang_Class.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.040
+!MESSAGE Cannot handle sun.security.krb5.internal.crypto.dk [in <module:java.security.jgss>]
+  AesDkCrypto.class (not open)
+  AesSha2DkCrypto.class (not open)
+  ArcFourCrypto.class
+    class ArcFourCrypto
+  Des3DkCrypto.class (not open)
+  DkCrypto.class
+    class DkCrypto as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.041
+!MESSAGE Cannot handle sun.tools.jinfo (not open) [in <module:jdk.jcmd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.041
+!MESSAGE Cannot handle sun.net.ftp.impl (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.042
+!MESSAGE Cannot handle sun.jvmstat.monitor.event (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.042
+!MESSAGE Cannot handle sun.security.tools.keytool (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.043
+!MESSAGE Cannot handle sun.jvmstat.perfdata.resources (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.044
+!MESSAGE Cannot handle sun.java2d.d3d (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.044
+!MESSAGE Cannot handle sun.applet (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.045
+!MESSAGE Cannot handle sun.text.spi (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.045
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.046
+!MESSAGE Cannot handle sun.rmi.rmic (not open) [in <module:jdk.rmic>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.046
+!MESSAGE Cannot handle sun.util.locale [in <module:java.base>]
+  BaseLocale$Cache.class (not open)
+  BaseLocale$Key.class (not open)
+  BaseLocale.class (not open)
+  Extension.class (not open)
+  InternalLocaleBuilder$CaseInsensitiveChar.class (not open)
+  InternalLocaleBuilder$CaseInsensitiveString.class (not open)
+  InternalLocaleBuilder.class (not open)
+  LanguageTag.class (not open)
+  LocaleEquivalentMaps.class (not open)
+  LocaleExtensions.class (not open)
+  LocaleMatcher.class (not open)
+  LocaleObjectCache$CacheEntry.class (not open)
+  LocaleObjectCache.class (not open)
+  LocaleSyntaxException.class (not open)
+  LocaleUtils.class (not open)
+  ParseStatus.class (not open)
+  StringTokenIterator.class
+    class StringTokenIterator
+  UnicodeLocaleExtension.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.046
+!MESSAGE Cannot handle sun.rmi.server (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.047
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.z (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.047
+!MESSAGE Cannot handle sun.nio.cs.ext (not open) [in <module:jdk.charsets>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.048
+!MESSAGE Cannot handle sun.text.bidi (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.048
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.arm64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.049
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.windbg.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.049
+!MESSAGE Cannot handle sun.util.cldr (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.050
+!MESSAGE Cannot handle sun.jvm.hotspot.code [in <module:jdk.hotspot.agent>]
+  AdapterBlob$1.class (not open)
+  AdapterBlob.class (not open)
+  BufferBlob$1.class (not open)
+  BufferBlob.class (not open)
+  CodeBlob$1.class (not open)
+  CodeBlob.class (not open)
+  CodeCache$1.class (not open)
+  CodeCache.class (not open)
+  CodeCacheVisitor.class (not open)
+  CompiledMethod$1.class (not open)
+  CompiledMethod.class (not open)
+  CompressedReadStream.class (not open)
+  CompressedStream.class (not open)
+  CompressedWriteStream.class (not open)
+  ConstantDoubleValue.class (not open)
+  ConstantIntValue.class (not open)
+  ConstantLongValue.class (not open)
+  ConstantOopReadValue.class (not open)
+  DebugInfoReadStream.class (not open)
+  DebugInformationRecorder.class (not open)
+  DeoptimizationBlob$1.class (not open)
+  DeoptimizationBlob.class (not open)
+  ExceptionBlob$1.class (not open)
+  ExceptionBlob.class (not open)
+  Location$1.class (not open)
+  Location$Type.class (not open)
+  Location$Where.class (not open)
+  Location.class (not open)
+  LocationValue.class (not open)
+  MethodHandlesAdapterBlob$1.class (not open)
+  MethodHandlesAdapterBlob.class (not open)
+  MonitorValue.class (not open)
+  NMethod$1.class (not open)
+  NMethod.class (not open)
+  ObjectValue.class (not open)
+  PCDesc$1.class (not open)
+  PCDesc.class (not open)
+  RuntimeBlob$1.class (not open)
+  RuntimeBlob.class (not open)
+  RuntimeStub$1.class (not open)
+  RuntimeStub.class (not open)
+  SafepointBlob$1.class (not open)
+  SafepointBlob.class (not open)
+  ScopeDesc.class (not open)
+  ScopeValue.class (not open)
+  SingletonBlob$1.class (not open)
+  SingletonBlob.class (not open)
+  Stub.class
+    class Stub
+  StubQueue$1.class (not open)
+  StubQueue.class
+    class StubQueue
+  UncommonTrapBlob$1.class (not open)
+  UncommonTrapBlob.class (not open)
+  VMRegImpl$1.class (not open)
+  VMRegImpl.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.051
+!MESSAGE Cannot handle sun.launcher.resources (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.051
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.052
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.bsd.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.052
+!MESSAGE Cannot handle sun.jvm.hotspot.memory [in <module:jdk.hotspot.agent>]
+  AFLBinaryTreeDictionary$1.class (not open)
+  AFLBinaryTreeDictionary.class (not open)
+  AltHashing.class (not open)
+  CodeHeap$1.class (not open)
+  CodeHeap.class (not open)
+  Dictionary$1.class (not open)
+  Dictionary.class (not open)
+  DictionaryEntry$1.class (not open)
+  DictionaryEntry.class (not open)
+  FileMapInfo$1.class (not open)
+  FileMapInfo$FileMapHeader.class (not open)
+  FileMapInfo.class (not open)
+  FreeChunk$1.class (not open)
+  FreeChunk.class (not open)
+  HeapBlock$1.class (not open)
+  HeapBlock$Header.class (not open)
+  HeapBlock.class (not open)
+  MemRegion$1.class (not open)
+  MemRegion.class (not open)
+  ReferenceType.class (not open)
+  SymbolTable$1.class (not open)
+  SymbolTable$SymbolVisitor.class (not open)
+  SymbolTable.class (not open)
+  SystemDictionary$1.class (not open)
+  SystemDictionary.class (not open)
+  Universe$1.class (not open)
+  Universe$2.class (not open)
+  Universe$NARROW_OOP_MODE.class
+    enum NARROW_OOP_MODE
+  Universe.class (not open)
+  UniverseExt.class (not open)
+  VirtualSpace$1.class (not open)
+  VirtualSpace.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.053
+!MESSAGE Cannot handle sun.text (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.053
+!MESSAGE Cannot handle sun.reflect.generics (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.054
+!MESSAGE Cannot handle sun.jvm.hotspot.ci (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.054
+!MESSAGE Cannot handle sun.util.resources [in <module:java.base>]
+  BreakIteratorResourceBundle.class (not open)
+  Bundles$1.class (not open)
+  Bundles$2.class (not open)
+  Bundles$BundleReference.class (not open)
+  Bundles$CacheKey.class (not open)
+  Bundles$CacheKeyReference.class (not open)
+  Bundles$Strategy.class
+    interface Strategy
+  Bundles.class (not open)
+  CalendarData.class (not open)
+  CalendarDataProvider.class (not open)
+  CalendarData_en.class (not open)
+  CurrencyNames.class (not open)
+  CurrencyNamesProvider.class (not open)
+  CurrencyNames_en_US.class (not open)
+  LocaleData$1.class (not open)
+  LocaleData$2.class (not open)
+  LocaleData$CommonResourceBundleProvider.class (not open)
+  LocaleData$LocaleDataResourceBundleProvider.class (not open)
+  LocaleData$LocaleDataStrategy.class (not open)
+  LocaleData$SupplementaryResourceBundleProvider.class (not open)
+  LocaleData$SupplementaryStrategy.class (not open)
+  LocaleData.class (not open)
+  LocaleDataProvider.class (not open)
+  LocaleNames.class (not open)
+  LocaleNamesBundle.class (not open)
+  LocaleNamesProvider.class (not open)
+  LocaleNames_en.class (not open)
+  OpenListResourceBundle.class (not open)
+  ParallelListResourceBundle$KeySet$1.class (not open)
+  ParallelListResourceBundle$KeySet.class (not open)
+  ParallelListResourceBundle.class (not open)
+  TimeZoneNames.class (not open)
+  TimeZoneNamesBundle.class (not open)
+  TimeZoneNamesProvider.class (not open)
+  TimeZoneNames_en.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.055
+!MESSAGE Cannot handle sun.security.tools.jarsigner (not open) [in <module:jdk.jartool>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.055
+!MESSAGE Cannot handle sun.rmi.log (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.056
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor.protocol (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.056
+!MESSAGE Cannot handle sun.jvm.hotspot.c1 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.057
+!MESSAGE Cannot handle sun.security.krb5.internal.ccache (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.057
+!MESSAGE Cannot handle sun.util.resources.cldr (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.058
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.parallel (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.058
+!MESSAGE Cannot handle sun.net.sdp (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.059
+!MESSAGE Cannot handle sun.reflect.generics.factory (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.059
+!MESSAGE Cannot handle sun.tools.jar (not open) [in <module:jdk.jartool>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.060
+!MESSAGE Cannot handle sun.java2d.opengl (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.060
+!MESSAGE Cannot handle sun.rmi.registry.resources (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.060
+!MESSAGE Cannot handle sun.awt (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.061
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_ppc64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.061
+!MESSAGE Cannot handle sun.security.pkcs (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.062
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.windows (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.062
+!MESSAGE Cannot handle sun.awt.www.content.image (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.063
+!MESSAGE Cannot handle sun.security.jca (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.063
+!MESSAGE Cannot handle sun.swing.text.html (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.064
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.ppc64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.064
+!MESSAGE Cannot handle sun.jvm.hotspot.utilities.soql (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.065
+!MESSAGE Cannot handle sun.security.provider [in <module:java.base>]
+  AbstractDrbg$NonceProvider.class (not open)
+  AbstractDrbg$SeederHolder.class (not open)
+  AbstractDrbg.class (not open)
+  AbstractHashDrbg.class (not open)
+  ByteArrayAccess.class (not open)
+  ConfigFile$Spi$1.class (not open)
+  ConfigFile$Spi$2.class (not open)
+  ConfigFile$Spi.class (not open)
+  ConfigFile.class (not open)
+  CtrDrbg.class (not open)
+  DRBG.class (not open)
+  DSA$Raw$NullDigest20.class
+    class NullDigest20
+  DSA$Raw.class
+    class Raw
+  DSA$RawDSA.class (not open)
+  DSA$RawDSAinP1363Format.class (not open)
+  DSA$SHA1withDSA.class (not open)
+  DSA$SHA1withDSAinP1363Format.class (not open)
+  DSA$SHA224withDSA.class (not open)
+  DSA$SHA224withDSAinP1363Format.class (not open)
+  DSA$SHA256withDSA.class (not open)
+  DSA$SHA256withDSAinP1363Format.class (not open)
+  DSA.class (not open)
+  DSAKeyFactory.class (not open)
+  DSAKeyPairGenerator$Current.class (not open)
+  DSAKeyPairGenerator$Legacy.class (not open)
+  DSAKeyPairGenerator.class (not open)
+  DSAParameterGenerator.class (not open)
+  DSAParameters.class (not open)
+  DSAPrivateKey.class (not open)
+  DSAPublicKey.class (not open)
+  DSAPublicKeyImpl.class (not open)
+  DigestBase.class (not open)
+  DomainKeyStore$1.class (not open)
+  DomainKeyStore$DKS.class (not open)
+  DomainKeyStore$KeyStoreBuilderComponents.class (not open)
+  DomainKeyStore.class (not open)
+  EntropySource.class (not open)
+  FileInputStreamPool$StreamRef.class (not open)
+  FileInputStreamPool$UnclosableInputStream.class (not open)
+  FileInputStreamPool.class (not open)
+  HashDrbg.class (not open)
+  HmacDrbg.class (not open)
+  JavaKeyStore$CaseExactJKS.class (not open)
+  JavaKeyStore$DualFormatJKS.class (not open)
+  JavaKeyStore$JKS.class (not open)
+  JavaKeyStore$KeyEntry.class (not open)
+  JavaKeyStore$TrustedCertEntry.class (not open)
+  JavaKeyStore.class (not open)
+  KeyProtector.class (not open)
+  MD2.class (not open)
+  MD4$1.class (not open)
+  MD4$2.class (not open)
+  MD4.class (not open)
+  MD5.class (not open)
+  MoreDrbgParameters.class (not open)
+  NativePRNG$Blocking.class (not open)
+  NativePRNG$NonBlocking.class
+    class NonBlocking
+  NativePRNG.class (not open)
+  NativeSeedGenerator.class (not open)
+  ParameterCache.class (not open)
+  PolicyFile$1.class (not open)
+  PolicyFile$2.class (not open)
+  PolicyFile$3.class (not open)
+  PolicyFile$4.class (not open)
+  PolicyFile$5.class (not open)
+  PolicyFile$6.class (not open)
+  PolicyFile$7.class (not open)
+  PolicyFile$8.class (not open)
+  PolicyFile$9.class (not open)
+  PolicyFile$PolicyEntry.class (not open)
+  PolicyFile$PolicyInfo.class (not open)
+  PolicyFile$SelfPermission.class (not open)
+  PolicyFile.class (not open)
+  PolicyParser$DomainEntry.class (not open)
+  PolicyParser$GrantEntry.class (not open)
+  PolicyParser$KeyStoreEntry.class (not open)
+  PolicyParser$ParsingException.class (not open)
+  PolicyParser$PermissionEntry.class (not open)
+  PolicyParser$PrincipalEntry.class (not open)
+  PolicyParser.class (not open)
+  PolicySpiFile.class (not open)
+  SHA.class (not open)
+  SHA2$SHA224.class (not open)
+  SHA2$SHA256.class (not open)
+  SHA2.class (not open)
+  SHA3$SHA224.class (not open)
+  SHA3$SHA256.class (not open)
+  SHA3$SHA384.class (not open)
+  SHA3$SHA512.class (not open)
+  SHA3.class (not open)
+  SHA5$SHA384.class (not open)
+  SHA5$SHA512.class (not open)
+  SHA5$SHA512_224.class (not open)
+  SHA5$SHA512_256.class (not open)
+  SHA5.class (not open)
+  SecureRandom$SeederHolder.class (not open)
+  SecureRandom.class (not open)
+  SeedGenerator$1.class (not open)
+  SeedGenerator$ThreadedSeedGenerator$1.class (not open)
+  SeedGenerator$ThreadedSeedGenerator$BogusThread.class (not open)
+  SeedGenerator$ThreadedSeedGenerator.class (not open)
+  SeedGenerator$URLSeedGenerator$1.class (not open)
+  SeedGenerator$URLSeedGenerator.class (not open)
+  SeedGenerator.class (not open)
+  SubjectCodeSource$1.class (not open)
+  SubjectCodeSource$2.class (not open)
+  SubjectCodeSource.class (not open)
+  Sun.class (not open)
+  SunEntries$1.class (not open)
+  SunEntries.class (not open)
+  VerificationProvider.class (not open)
+  X509Factory.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.065
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.066
+!MESSAGE Cannot handle sun.net.www.protocol.jar (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.066
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.067
+!MESSAGE Cannot handle sun.invoke (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.067
+!MESSAGE Cannot handle sun.management.counter [in <module:java.management>]
+  AbstractCounter$Flags.class (not open)
+  AbstractCounter.class (not open)
+  ByteArrayCounter.class (not open)
+  Counter.class
+    interface Counter
+  LongArrayCounter.class (not open)
+  LongCounter.class (not open)
+  StringCounter.class
+    interface StringCounter
+  Units.class (not open)
+  Variability.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.068
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.069
+!MESSAGE Cannot handle scanning [in src [in Le_Compilateur]]
+  package-info.java
+    package scanning
+  Token.java
+    package scanning
+    class Token
+      String name
+      String code
+      int addr
+      Token(String, String)
+      Token(String, String, int)
+      void setAddr(int)
+      String getName()
+      String getCode()
+      int getAddr()
+      void setName(String)
+      void setCode(String)
+  ScannerTkn.java
+    package scanning
+    import java.io.File
+    import java.io.FileNotFoundException
+    import java.io.FileReader
+    import java.io.IOException
+    import java.util.ArrayList
+    import java.util.HashMap
+    import java.util.Iterator
+    import java.util.LinkedHashMap
+    import java.util.List
+    import java.util.Map
+    class symbol
+      int number
+      int type
+      char[] name
+    class analysizer
+      String[] keyWord
+      boolean isLetter(char)
+      boolean isDigit(char)
+      boolean isKwd(String)
+      List<Map> generateSymbol(List<Token>, List<Token>)
+      List<Map> analyse(char[], List<Token>)
+    class ScannerTkn
+      static void main(String[])
+      List<Token> listTkn()
+      List<Token> listSym() as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.069
+!MESSAGE Cannot handle sun.security.internal.spec (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.070
+!MESSAGE Cannot handle sun.tools.java [in <module:jdk.rmic>]
+  AmbiguousClass.class (not open)
+  AmbiguousMember.class (not open)
+  ArrayType.class
+    class ArrayType
+  BinaryAttribute.class (not open)
+  BinaryClass.class (not open)
+  BinaryCode.class (not open)
+  BinaryConstantPool.class (not open)
+  BinaryExceptionHandler.class (not open)
+  BinaryMember.class (not open)
+  ClassDeclaration.class (not open)
+  ClassDefinition.class (not open)
+  ClassFile.class (not open)
+  ClassNotFound.class (not open)
+  ClassPath.class (not open)
+  ClassPathEntry.class (not open)
+  ClassType.class (not open)
+  CompilerError.class (not open)
+  Constants.class
+    interface Constants
+  DirClassPathEntry.class (not open)
+  Environment.class (not open)
+  FileClassFile.class (not open)
+  Identifier.class
+    class Identifier
+  IdentifierToken.class (not open)
+  ImportEnvironment.class (not open)
+  Imports.class (not open)
+  JrtClassPathEntry.class (not open)
+  MemberDefinition.class (not open)
+  MethodSet$1MethodIterator.class (not open)
+  MethodSet.class (not open)
+  MethodType.class (not open)
+  Package.class (not open)
+  Parser.class (not open)
+  ParserActions.class (not open)
+  PathClassFile.class (not open)
+  RuntimeConstants.class
+    interface RuntimeConstants
+  Scanner.class (not open)
+  ScannerInputReader.class (not open)
+  SyntaxError.class (not open)
+  Type.class
+    class Type
+  ZipClassFile.class (not open)
+  ZipClassPathEntry.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.070
+!MESSAGE Cannot handle sun.tools.serialver (not open) [in <module:jdk.compiler>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.070
+!MESSAGE Cannot handle sun.nio (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.071
+!MESSAGE Cannot handle sun.jvm.hotspot.ui.treetable (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.071
+!MESSAGE Cannot handle sun.security.krb5.internal.tools (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.072
+!MESSAGE Cannot handle sun.rmi.transport [in <module:java.rmi>]
+  Channel.class (not open)
+  Connection.class (not open)
+  ConnectionInputStream.class (not open)
+  ConnectionOutputStream.class (not open)
+  DGCAckHandler$1.class (not open)
+  DGCAckHandler.class (not open)
+  DGCClient$EndpointEntry$1.class (not open)
+  DGCClient$EndpointEntry$CleanRequest.class (not open)
+  DGCClient$EndpointEntry$RefEntry$PhantomLiveRef.class (not open)
+  DGCClient$EndpointEntry$RefEntry.class (not open)
+  DGCClient$EndpointEntry$RenewCleanThread.class (not open)
+  DGCClient$EndpointEntry.class (not open)
+  DGCClient.class (not open)
+  DGCImpl$1.class (not open)
+  DGCImpl$2$1.class (not open)
+  DGCImpl$2.class (not open)
+  DGCImpl$LeaseInfo.class (not open)
+  DGCImpl.class (not open)
+  DGCImpl_Skel.class (not open)
+  DGCImpl_Stub.class (not open)
+  Endpoint.class (not open)
+  GC$1.class (not open)
+  GC$Daemon$1.class (not open)
+  GC$Daemon.class (not open)
+  GC$LatencyLock.class (not open)
+  GC$LatencyRequest.class (not open)
+  GC.class (not open)
+  LiveRef.class (not open)
+  ObjectEndpoint.class (not open)
+  ObjectTable$1.class (not open)
+  ObjectTable$Reaper.class (not open)
+  ObjectTable.class (not open)
+  SequenceEntry.class (not open)
+  StreamRemoteCall.class
+    class StreamRemoteCall
+  Target.class (not open)
+  Transport$1.class (not open)
+  Transport.class (not open)
+  TransportConstants.class (not open)
+  WeakRef.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.072
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor.v1_0 (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.073
+!MESSAGE Cannot handle sun.security.util.math.intpoly (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.073
+!MESSAGE Cannot handle sun.security.jgss (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.074
+!MESSAGE Cannot handle sun.swing.plaf.windows (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.074
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.windows.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.075
+!MESSAGE Cannot handle sun.tools.javac (not open) [in <module:jdk.rmic>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.075
+!MESSAGE Cannot handle sun.jvm.hotspot.tools [in <module:jdk.hotspot.agent>]
+  ClassLoaderStats$1.class (not open)
+  ClassLoaderStats$1ParentFinder.class (not open)
+  ClassLoaderStats$2.class (not open)
+  ClassLoaderStats$3.class (not open)
+  ClassLoaderStats$ClassData.class (not open)
+  ClassLoaderStats$LoaderData.class (not open)
+  ClassLoaderStats.class (not open)
+  FinalizerInfo$1.class (not open)
+  FinalizerInfo$2.class (not open)
+  FinalizerInfo.class (not open)
+  FlagDumper.class (not open)
+  HeapDumper.class (not open)
+  HeapSummary.class (not open)
+  JInfo$1.class (not open)
+  JInfo.class (not open)
+  JMap.class (not open)
+  JSnap$1.class (not open)
+  JSnap.class (not open)
+  JStack.class (not open)
+  ObjectHistogram.class (not open)
+  PMap.class (not open)
+  PStack.class (not open)
+  StackTrace.class
+    class StackTrace
+  SysPropsDumper.class (not open)
+  Tool.class
+    class Tool as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.076
+!MESSAGE Cannot handle sun.jvm.hotspot.compiler (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.076
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.posix (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.077
+!MESSAGE Cannot handle sun.jvmstat.monitor [in <module:jdk.internal.jvmstat>]
+  AbstractMonitor.class (not open)
+  BufferedMonitoredVm.class (not open)
+  ByteArrayMonitor.class (not open)
+  HostIdentifier.class (not open)
+  IntegerMonitor.class (not open)
+  LongMonitor.class (not open)
+  Monitor.class
+    interface Monitor
+  MonitorException.class (not open)
+  MonitoredHost.class (not open)
+  MonitoredHostService.class (not open)
+  MonitoredVm.class (not open)
+  MonitoredVmUtil.class (not open)
+  StringMonitor.class
+    interface StringMonitor
+  Units.class (not open)
+  Variability.class (not open)
+  VmIdentifier.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.077
+!MESSAGE Cannot handle sun.tools (not open) [in <module:jdk.attach>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.078
+!MESSAGE Cannot handle sun.text.resources.ext (not open) [in <module:jdk.localedata>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.078
+!MESSAGE Cannot handle sun.security.ec.point (not open) [in <module:jdk.crypto.ec>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.079
+!MESSAGE Cannot handle sun.reflect.annotation (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.079
+!MESSAGE Cannot handle sun.security.krb5 (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.080
+!MESSAGE Cannot handle sun.security.provider.certpath.ssl (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.080
+!MESSAGE Cannot handle sun.util.logging (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.081
+!MESSAGE Cannot handle sun.tools.jconsole.inspector (not open) [in <module:jdk.jconsole>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.081
+!MESSAGE Cannot handle sun.tools.jps [in <module:jdk.jcmd>]
+  Arguments.class
+    class Arguments
+  Jps.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.082
+!MESSAGE Cannot handle sun.text.normalizer [in <module:java.base>]
+  BMPSet.class (not open)
+  CharTrie.class (not open)
+  CharacterIteratorWrapper.class (not open)
+  FilteredNormalizer2.class (not open)
+  ICUBinary$1.class (not open)
+  ICUBinary$Authenticate.class (not open)
+  ICUBinary$IsAcceptable.class (not open)
+  ICUBinary.class (not open)
+  Norm2AllModes$ComposeNormalizer2.class (not open)
+  Norm2AllModes$DecomposeNormalizer2.class (not open)
+  Norm2AllModes$NFCSingleton.class (not open)
+  Norm2AllModes$NFKCSingleton.class (not open)
+  Norm2AllModes$NoopNormalizer2.class
+    class NoopNormalizer2
+  Norm2AllModes$Norm2AllModesSingleton.class (not open)
+  Norm2AllModes$Normalizer2WithImpl.class
+    class Normalizer2WithImpl
+  Norm2AllModes.class (not open)
+  Normalizer2.class (not open)
+  NormalizerBase$1.class (not open)
+  NormalizerBase$Mode.class (not open)
+  NormalizerBase$ModeImpl.class (not open)
+  NormalizerBase$NFC32ModeImpl.class (not open)
+  NormalizerBase$NFCMode.class (not open)
+  NormalizerBase$NFCModeImpl.class (not open)
+  NormalizerBase$NFD32ModeImpl.class (not open)
+  NormalizerBase$NFDMode.class (not open)
+  NormalizerBase$NFDModeImpl.class (not open)
+  NormalizerBase$NFKC32ModeImpl.class (not open)
+  NormalizerBase$NFKCMode.class (not open)
+  NormalizerBase$NFKCModeImpl.class (not open)
+  NormalizerBase$NFKD32ModeImpl.class (not open)
+  NormalizerBase$NFKDMode.class (not open)
+  NormalizerBase$NFKDModeImpl.class (not open)
+  NormalizerBase$NONEMode.class (not open)
+  NormalizerBase$Unicode32.class (not open)
+  NormalizerBase.class (not open)
+  NormalizerImpl$Hangul.class (not open)
+  NormalizerImpl$IsAcceptable.class (not open)
+  NormalizerImpl$NextCCArgs.class (not open)
+  NormalizerImpl$PrevArgs.class (not open)
+  NormalizerImpl$ReorderingBuffer.class (not open)
+  NormalizerImpl$UTF16Plus.class (not open)
+  NormalizerImpl.class (not open)
+  OutputInt.class (not open)
+  Replaceable.class (not open)
+  ReplaceableString.class (not open)
+  ReplaceableUCharacterIterator.class (not open)
+  Trie$DataManipulate.class (not open)
+  Trie$DefaultGetFoldingOffset.class (not open)
+  Trie.class (not open)
+  Trie2$1.class (not open)
+  Trie2$Range.class (not open)
+  Trie2$Trie2Iterator.class (not open)
+  Trie2$UTrie2Header.class (not open)
+  Trie2$ValueMapper.class (not open)
+  Trie2.class (not open)
+  Trie2_16.class (not open)
+  UBiDiProps$IsAcceptable.class (not open)
+  UBiDiProps.class (not open)
+  UCharacter$HangulSyllableType.class (not open)
+  UCharacter$JoiningGroup.class (not open)
+  UCharacter$NumericType.class
+    interface NumericType
+  UCharacter.class (not open)
+  UCharacterIterator.class (not open)
+  UCharacterProperty$1.class (not open)
+  UCharacterProperty$BiDiIntProperty.class (not open)
+  UCharacterProperty$CombiningClassIntProperty.class (not open)
+  UCharacterProperty$IntProperty.class (not open)
+  UCharacterProperty$IsAcceptable.class (not open)
+  UCharacterProperty$NormQuickCheckIntProperty.class (not open)
+  UCharacterProperty.class (not open)
+  UTF16.class (not open)
+  UnicodeSet$Filter.class (not open)
+  UnicodeSet$SpanCondition.class (not open)
+  UnicodeSet$VersionFilter.class (not open)
+  UnicodeSet.class (not open)
+  UnicodeSetStringSpan$OffsetList.class (not open)
+  UnicodeSetStringSpan.class (not open)
+  Utility.class (not open)
+  VersionInfo.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.082
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.windbg (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.083
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.083
+!MESSAGE Cannot handle sun.rmi (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.084
+!MESSAGE Cannot handle sun.net.httpserver [in <module:jdk.httpserver>]
+  AuthFilter.class (not open)
+  ChunkedInputStream.class (not open)
+  ChunkedOutputStream.class (not open)
+  Code.class (not open)
+  ContextList.class (not open)
+  DefaultHttpServerProvider.class (not open)
+  Event.class (not open)
+  ExchangeImpl$1.class (not open)
+  ExchangeImpl.class (not open)
+  FixedLengthInputStream.class (not open)
+  FixedLengthOutputStream.class (not open)
+  HttpConnection$State.class
+    enum State
+  HttpConnection.class (not open)
+  HttpContextImpl.class (not open)
+  HttpError.class (not open)
+  HttpExchangeImpl.class (not open)
+  HttpServerImpl.class (not open)
+  HttpsExchangeImpl.class (not open)
+  HttpsServerImpl.class (not open)
+  LeftOverInputStream.class (not open)
+  PlaceholderOutputStream.class (not open)
+  Request$ReadStream.class (not open)
+  Request$WriteStream.class (not open)
+  Request.class (not open)
+  SSLStreams$1.class (not open)
+  SSLStreams$BufType.class (not open)
+  SSLStreams$EngineWrapper.class (not open)
+  SSLStreams$InputStream.class (not open)
+  SSLStreams$OutputStream.class (not open)
+  SSLStreams$Parameters.class (not open)
+  SSLStreams$WrapperResult.class (not open)
+  SSLStreams.class (not open)
+  ServerConfig$1.class (not open)
+  ServerConfig$2.class (not open)
+  ServerConfig.class (not open)
+  ServerImpl$1.class (not open)
+  ServerImpl$2.class (not open)
+  ServerImpl$DefaultExecutor.class (not open)
+  ServerImpl$Dispatcher.class (not open)
+  ServerImpl$Exchange$LinkHandler.class (not open)
+  ServerImpl$Exchange.class (not open)
+  ServerImpl$ServerTimerTask.class (not open)
+  ServerImpl$ServerTimerTask1.class (not open)
+  ServerImpl.class (not open)
+  StreamClosedException.class (not open)
+  TimeSource.class (not open)
+  UndefLengthOutputStream.class (not open)
+  UnmodifiableHeaders.class (not open)
+  WriteFinishedEvent.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.084
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.sparc (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.085
+!MESSAGE Cannot handle sun.net.ext (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.085
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.ppc64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.086
+!MESSAGE Cannot handle sun.management.counter.perf (not open) [in <module:java.management>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.086
+!MESSAGE Cannot handle sun.net.www.protocol.http (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.087
+!MESSAGE Cannot handle sun.tools.jconsole (not open) [in <module:jdk.jconsole>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.087
+!MESSAGE Cannot handle sun.awt.util (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.088
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.dummy (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.088
+!MESSAGE Cannot handle sun.security.krb5.internal.util (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.089
+!MESSAGE Cannot handle sun.net.smtp (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.089
+!MESSAGE Cannot handle sun.security.internal.interfaces (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.090
+!MESSAGE Cannot handle sun.rmi.runtime (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.090
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.win32.coff (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.091
+!MESSAGE Cannot handle sun.jvm.hotspot.interpreter (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.091
+!MESSAGE Cannot handle sun.management.jdp (not open) [in <module:jdk.management.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.092
+!MESSAGE Cannot handle sun.misc (not open) [in <module:jdk.unsupported>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.092
+!MESSAGE Cannot handle sun.java2d.windows (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.093
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.aarch64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.093
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.094
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.ppc64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.094
+!MESSAGE Cannot handle sun.jvm.hotspot.ui.action (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.095
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.095
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.096
+!MESSAGE Cannot handle sun.jvmstat.monitor.remote (not open) [in <module:jdk.jstatd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.096
+!MESSAGE Cannot handle sun.reflect.misc (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.097
+!MESSAGE Cannot handle sun.util.resources.cldr.ext (not open) [in <module:jdk.localedata>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.097
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.bsd_amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.098
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote.aarch64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.098
+!MESSAGE Cannot handle sun.security.pkcs10 (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.099
+!MESSAGE Cannot handle sun.tools.tree [in <module:jdk.rmic>]
+  AddExpression.class (not open)
+  AndExpression.class (not open)
+  ArrayAccessExpression.class
+    class ArrayAccessExpression
+  ArrayExpression.class
+    class ArrayExpression
+  AssignAddExpression.class (not open)
+  AssignBitAndExpression.class (not open)
+  AssignBitOrExpression.class (not open)
+  AssignBitXorExpression.class (not open)
+  AssignDivideExpression.class (not open)
+  AssignExpression.class (not open)
+  AssignMultiplyExpression.class (not open)
+  AssignOpExpression.class (not open)
+  AssignRemainderExpression.class (not open)
+  AssignShiftLeftExpression.class (not open)
+  AssignShiftRightExpression.class (not open)
+  AssignSubtractExpression.class (not open)
+  AssignUnsignedShiftRightExpression.class (not open)
+  BinaryArithmeticExpression.class (not open)
+  BinaryAssignExpression.class (not open)
+  BinaryBitExpression.class (not open)
+  BinaryCompareExpression.class (not open)
+  BinaryEqualityExpression.class (not open)
+  BinaryExpression.class (not open)
+  BinaryLogicalExpression.class (not open)
+  BinaryShiftExpression.class (not open)
+  BitAndExpression.class (not open)
+  BitNotExpression.class (not open)
+  BitOrExpression.class (not open)
+  BitXorExpression.class (not open)
+  BooleanExpression.class (not open)
+  BreakStatement.class (not open)
+  ByteExpression.class (not open)
+  CaseStatement.class (not open)
+  CastExpression.class (not open)
+  CatchStatement.class (not open)
+  CharExpression.class (not open)
+  CheckContext.class (not open)
+  CodeContext.class (not open)
+  CommaExpression.class (not open)
+  CompoundStatement.class (not open)
+  ConditionVars.class (not open)
+  ConditionalExpression.class (not open)
+  ConstantExpression.class
+    class ConstantExpression
+  Context.class (not open)
+  ContextEnvironment.class (not open)
+  ContinueStatement.class (not open)
+  ConvertExpression.class (not open)
+  DeclarationStatement.class (not open)
+  DivRemExpression.class (not open)
+  DivideExpression.class (not open)
+  DoStatement.class (not open)
+  DoubleExpression.class (not open)
+  EqualExpression.class (not open)
+  ExprExpression.class (not open)
+  Expression.class
+    class Expression
+  ExpressionStatement.class (not open)
+  FieldExpression.class (not open)
+  FieldUpdater.class (not open)
+  FinallyStatement.class (not open)
+  FloatExpression.class (not open)
+  ForStatement.class (not open)
+  GreaterExpression.class (not open)
+  GreaterOrEqualExpression.class (not open)
+  IdentifierExpression.class (not open)
+  IfStatement.class (not open)
+  IncDecExpression.class (not open)
+  InlineMethodExpression.class (not open)
+  InlineNewInstanceExpression.class (not open)
+  InlineReturnStatement.class (not open)
+  InstanceOfExpression.class (not open)
+  IntExpression.class (not open)
+  IntegerExpression.class (not open)
+  LengthExpression.class (not open)
+  LessExpression.class (not open)
+  LessOrEqualExpression.class (not open)
+  LocalMember.class (not open)
+  LongExpression.class (not open)
+  MethodExpression.class (not open)
+  MultiplyExpression.class (not open)
+  NaryExpression.class
+    class NaryExpression
+  NegativeExpression.class (not open)
+  NewArrayExpression.class (not open)
+  NewInstanceExpression.class (not open)
+  Node.class
+    class Node
+  NotEqualExpression.class (not open)
+  NotExpression.class (not open)
+  NullExpression.class (not open)
+  OrExpression.class (not open)
+  PositiveExpression.class (not open)
+  PostDecExpression.class (not open)
+  PostIncExpression.class (not open)
+  PreDecExpression.class (not open)
+  PreIncExpression.class (not open)
+  RemainderExpression.class (not open)
+  ReturnStatement.class (not open)
+  ShiftLeftExpression.class (not open)
+  ShiftRightExpression.class (not open)
+  ShortExpression.class (not open)
+  Statement.class
+    class Statement
+  StringExpression.class
+    class StringExpression
+  SubtractExpression.class (not open)
+  SuperExpression.class (not open)
+  SwitchStatement.class (not open)
+  SynchronizedStatement.class (not open)
+  ThisExpression.class (not open)
+  ThrowStatement.class (not open)
+  TryStatement.class (not open)
+  TypeExpression.class (not open)
+  UnaryExpression.class
+    class UnaryExpression
+  UnsignedShiftRightExpression.class (not open)
+  UplevelReference.class (not open)
+  VarDeclarationStatement.class (not open)
+  Vset.class (not open)
+  WhileStatement.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.100
+!MESSAGE Cannot handle sun.net.www.protocol.https (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.100
+!MESSAGE Cannot handle sun.security (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.101
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.remote (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.101
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.cdbg.basic (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.102
+!MESSAGE Cannot handle sun.nio.cs [in <module:java.base>]
+  ArrayDecoder.class
+    interface ArrayDecoder
+  ArrayEncoder.class
+    interface ArrayEncoder
+  CESU_8$Decoder.class (not open)
+  CESU_8$Encoder.class (not open)
+  CESU_8.class (not open)
+  CharsetMapping$1.class (not open)
+  CharsetMapping$2.class (not open)
+  CharsetMapping$3.class (not open)
+  CharsetMapping$4.class (not open)
+  CharsetMapping$Entry.class (not open)
+  CharsetMapping.class (not open)
+  DelegatableDecoder.class (not open)
+  DoubleByte$Decoder.class (not open)
+  DoubleByte$Decoder_DBCSONLY.class (not open)
+  DoubleByte$Decoder_EBCDIC.class (not open)
+  DoubleByte$Decoder_EUC_SIM.class (not open)
+  DoubleByte$Encoder.class (not open)
+  DoubleByte$Encoder_DBCSONLY.class (not open)
+  DoubleByte$Encoder_EBCDIC.class (not open)
+  DoubleByte$Encoder_EUC_SIM.class (not open)
+  DoubleByte.class (not open)
+  GBK.class (not open)
+  HKSCS$Decoder.class (not open)
+  HKSCS$Encoder.class (not open)
+  HKSCS.class (not open)
+  HKSCSMapping.class (not open)
+  HKSCS_XPMapping.class (not open)
+  HistoricallyNamedCharset.class (not open)
+  IBM437.class (not open)
+  IBM737.class (not open)
+  IBM775.class (not open)
+  IBM850.class (not open)
+  IBM852.class (not open)
+  IBM855.class (not open)
+  IBM857.class (not open)
+  IBM858.class (not open)
+  IBM862.class (not open)
+  IBM866.class (not open)
+  IBM874.class (not open)
+  ISO_8859_1$Decoder.class (not open)
+  ISO_8859_1$Encoder.class (not open)
+  ISO_8859_1.class (not open)
+  ISO_8859_13.class (not open)
+  ISO_8859_15.class (not open)
+  ISO_8859_16.class (not open)
+  ISO_8859_2.class (not open)
+  ISO_8859_4.class (not open)
+  ISO_8859_5.class (not open)
+  ISO_8859_7.class (not open)
+  ISO_8859_9.class (not open)
+  JIS_X_0201.class (not open)
+  Johab.class (not open)
+  KOI8_R.class (not open)
+  KOI8_U.class (not open)
+  MS1250.class (not open)
+  MS1251.class (not open)
+  MS1252.class (not open)
+  MS1253.class (not open)
+  MS1254.class (not open)
+  MS1255.class (not open)
+  MS1256.class (not open)
+  MS1257.class (not open)
+  MS1258.class (not open)
+  MS874.class (not open)
+  MS932.class (not open)
+  MS936.class (not open)
+  MS949.class (not open)
+  MS950.class (not open)
+  MS950_HKSCS$Decoder.class (not open)
+  MS950_HKSCS$Encoder.class (not open)
+  MS950_HKSCS.class (not open)
+  MS950_HKSCS_XP$Decoder.class (not open)
+  MS950_HKSCS_XP$Encoder.class (not open)
+  MS950_HKSCS_XP.class (not open)
+  SJIS.class (not open)
+  SingleByte$Decoder.class (not open)
+  SingleByte$Encoder.class (not open)
+  SingleByte.class (not open)
+  StandardCharsets$1.class (not open)
+  StandardCharsets$Aliases.class (not open)
+  StandardCharsets$Cache.class (not open)
+  StandardCharsets$Classes.class (not open)
+  StandardCharsets.class
+    class StandardCharsets
+  StreamDecoder.class
+    class StreamDecoder
+  StreamEncoder.class
+    class StreamEncoder
+  StringUTF16.class (not open)
+  Surrogate$Generator.class (not open)
+  Surrogate$Parser.class (not open)
+  Surrogate.class (not open)
+  ThreadLocalCoders$1.class (not open)
+  ThreadLocalCoders$2.class (not open)
+  ThreadLocalCoders$Cache.class (not open)
+  ThreadLocalCoders.class (not open)
+  US_ASCII$Decoder.class (not open)
+  US_ASCII$Encoder.class (not open)
+  US_ASCII.class (not open)
+  UTF_16$Decoder.class (not open)
+  UTF_16$Encoder.class (not open)
+  UTF_16.class (not open)
+  UTF_16BE$Decoder.class (not open)
+  UTF_16BE$Encoder.class (not open)
+  UTF_16BE.class (not open)
+  UTF_16LE$Decoder.class (not open)
+  UTF_16LE$Encoder.class (not open)
+  UTF_16LE.class (not open)
+  UTF_16LE_BOM$Decoder.class (not open)
+  UTF_16LE_BOM$Encoder.class (not open)
+  UTF_16LE_BOM.class (not open)
+  UTF_32.class (not open)
+  UTF_32BE.class (not open)
+  UTF_32BE_BOM.class (not open)
+  UTF_32Coder$Decoder.class (not open)
+  UTF_32Coder$Encoder.class (not open)
+  UTF_32Coder.class (not open)
+  UTF_32LE.class (not open)
+  UTF_32LE_BOM.class (not open)
+  UTF_8$Decoder.class (not open)
+  UTF_8$Encoder.class (not open)
+  UTF_8.class (not open)
+  Unicode.class (not open)
+  UnicodeDecoder.class (not open)
+  UnicodeEncoder.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.102
+!MESSAGE Cannot handle sun.net.www.protocol.mailto (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.103
+!MESSAGE Cannot handle sun.reflect.generics.tree [in <module:java.base>]
+  ArrayTypeSignature.class
+    class ArrayTypeSignature
+  BaseType.class
+    interface BaseType
+  BooleanSignature.class (not open)
+  BottomSignature.class (not open)
+  ByteSignature.class (not open)
+  CharSignature.class (not open)
+  ClassSignature.class (not open)
+  ClassTypeSignature.class (not open)
+  DoubleSignature.class (not open)
+  FieldTypeSignature.class
+    interface FieldTypeSignature
+  FloatSignature.class (not open)
+  FormalTypeParameter.class (not open)
+  IntSignature.class (not open)
+  LongSignature.class (not open)
+  MethodTypeSignature.class (not open)
+  ReturnType.class
+    interface ReturnType
+  ShortSignature.class (not open)
+  Signature.class (not open)
+  SimpleClassTypeSignature.class (not open)
+  Tree.class
+    interface Tree
+  TypeArgument.class
+    interface TypeArgument
+  TypeSignature.class
+    interface TypeSignature
+  TypeTree.class
+    interface TypeTree
+  TypeVariableSignature.class (not open)
+  VoidDescriptor.class (not open)
+  Wildcard.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.104
+!MESSAGE Cannot handle sun.nio.fs (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.104
+!MESSAGE Cannot handle sun.net.idn [in <module:java.base>]
+  Punycode.class (not open)
+  StringPrep$StringPrepTrieImpl.class (not open)
+  StringPrep$Values.class (not open)
+  StringPrep.class
+    class StringPrep
+  StringPrepDataReader.class (not open)
+  UCharacterDirection.class (not open)
+  UCharacterEnums$ECharacterCategory.class (not open)
+  UCharacterEnums$ECharacterDirection.class (not open)
+  UCharacterEnums.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.105
+!MESSAGE Cannot handle sun.java2d.marlin [in <module:java.desktop>]
+  ArrayCacheConst$BucketStats.class (not open)
+  ArrayCacheConst$CacheStats.class (not open)
+  ArrayCacheConst.class
+    class ArrayCacheConst
+  ByteArrayCache$Bucket.class (not open)
+  ByteArrayCache$Reference.class (not open)
+  ByteArrayCache.class (not open)
+  CollinearSimplifier$1.class (not open)
+  CollinearSimplifier$SimplifierState.class (not open)
+  CollinearSimplifier.class (not open)
+  Curve.class (not open)
+  DCollinearSimplifier$1.class (not open)
+  DCollinearSimplifier$SimplifierState.class (not open)
+  DCollinearSimplifier.class (not open)
+  DCurve.class (not open)
+  DDasher$LengthIterator.class (not open)
+  DDasher.class (not open)
+  DHelpers$IndexStack.class (not open)
+  DHelpers$PolyStack.class (not open)
+  DHelpers.class (not open)
+  DMarlinRenderingEngine$1.class (not open)
+  DMarlinRenderingEngine$2.class (not open)
+  DMarlinRenderingEngine$NormMode$1.class (not open)
+  DMarlinRenderingEngine$NormMode$2.class (not open)
+  DMarlinRenderingEngine$NormMode$3.class (not open)
+  DMarlinRenderingEngine$NormMode.class (not open)
+  DMarlinRenderingEngine$NormalizingPathIterator$NearestPixelCenter.class (not open)
+  DMarlinRenderingEngine$NormalizingPathIterator$NearestPixelQuarter.class (not open)
+  DMarlinRenderingEngine$NormalizingPathIterator.class (not open)
+  DMarlinRenderingEngine.class (not open)
+  DPathConsumer2D.class (not open)
+  DPathSimplifier.class (not open)
+  DRenderer.class (not open)
+  DRendererContext$PathConsumer2DAdapter.class (not open)
+  DRendererContext.class (not open)
+  DStroker.class (not open)
+  DTransformingPathConsumer2D$ClosedPathDetector.class (not open)
+  DTransformingPathConsumer2D$CurveBasicMonotonizer.class (not open)
+  DTransformingPathConsumer2D$CurveClipSplitter.class (not open)
+  DTransformingPathConsumer2D$DeltaScaleFilter.class (not open)
+  DTransformingPathConsumer2D$DeltaTransformFilter.class (not open)
+  DTransformingPathConsumer2D$Path2DWrapper.class (not open)
+  DTransformingPathConsumer2D$PathClipFilter.class (not open)
+  DTransformingPathConsumer2D$PathTracer.class (not open)
+  DTransformingPathConsumer2D.class (not open)
+  Dasher$LengthIterator.class (not open)
+  Dasher.class (not open)
+  DoubleArrayCache$Bucket.class (not open)
+  DoubleArrayCache$Reference.class (not open)
+  DoubleArrayCache.class (not open)
+  FloatArrayCache$Bucket.class (not open)
+  FloatArrayCache$Reference.class (not open)
+  FloatArrayCache.class (not open)
+  FloatMath.class (not open)
+  Helpers$IndexStack.class (not open)
+  Helpers$PolyStack.class (not open)
+  Helpers.class (not open)
+  IRendererContext.class (not open)
+  IntArrayCache$Bucket.class (not open)
+  IntArrayCache$Reference.class (not open)
+  IntArrayCache.class (not open)
+  MarlinCache.class (not open)
+  MarlinConst.class
+    interface MarlinConst
+  MarlinProperties.class (not open)
+  MarlinRenderer.class (not open)
+  MarlinRenderingEngine$1.class (not open)
+  MarlinRenderingEngine$2.class (not open)
+  MarlinRenderingEngine$NormMode$1.class (not open)
+  MarlinRenderingEngine$NormMode$2.class (not open)
+  MarlinRenderingEngine$NormMode$3.class (not open)
+  MarlinRenderingEngine$NormMode.class (not open)
+  MarlinRenderingEngine$NormalizingPathIterator$NearestPixelCenter.class (not open)
+  MarlinRenderingEngine$NormalizingPathIterator$NearestPixelQuarter.class (not open)
+  MarlinRenderingEngine$NormalizingPathIterator.class (not open)
+  MarlinRenderingEngine.class (not open)
+  MarlinTileGenerator.class (not open)
+  MarlinUtils.class (not open)
+  MergeSort.class (not open)
+  OffHeapArray.class (not open)
+  PathSimplifier.class (not open)
+  Renderer.class (not open)
+  RendererContext.class (not open)
+  RendererStats$RendererStatsHolder$1.class (not open)
+  RendererStats$RendererStatsHolder.class (not open)
+  RendererStats.class (not open)
+  Stroker.class (not open)
+  TransformingPathConsumer2D$ClosedPathDetector.class (not open)
+  TransformingPathConsumer2D$CurveBasicMonotonizer.class (not open)
+  TransformingPathConsumer2D$CurveClipSplitter.class (not open)
+  TransformingPathConsumer2D$DeltaScaleFilter.class (not open)
+  TransformingPathConsumer2D$DeltaTransformFilter.class (not open)
+  TransformingPathConsumer2D$Path2DWrapper.class (not open)
+  TransformingPathConsumer2D$PathClipFilter.class (not open)
+  TransformingPathConsumer2D$PathTracer.class (not open)
+  TransformingPathConsumer2D.class (not open)
+  Version.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.105
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.aarch64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.106
+!MESSAGE Cannot handle sun.swing [in <module:java.desktop>]
+  AccumulativeRunnable.class (not open)
+  BakedArrayList.class (not open)
+  CachedPainter$PainterMultiResolutionCachedImage.class (not open)
+  CachedPainter.class (not open)
+  DefaultLayoutStyle.class (not open)
+  DefaultLookup.class (not open)
+  FilePane$1.class (not open)
+  FilePane$1FilePaneAction.class (not open)
+  FilePane$2.class (not open)
+  FilePane$3.class (not open)
+  FilePane$4.class (not open)
+  FilePane$5.class (not open)
+  FilePane$6.class (not open)
+  FilePane$7.class (not open)
+  FilePane$8.class (not open)
+  FilePane$9.class (not open)
+  FilePane$AlignableTableHeaderRenderer.class (not open)
+  FilePane$DelayedSelectionUpdater.class (not open)
+  FilePane$DetailsTableCellEditor.class (not open)
+  FilePane$DetailsTableCellRenderer.class (not open)
+  FilePane$DetailsTableModel$1.class (not open)
+  FilePane$DetailsTableModel.class (not open)
+  FilePane$DetailsTableRowSorter$1.class (not open)
+  FilePane$DetailsTableRowSorter$2.class (not open)
+  FilePane$DetailsTableRowSorter$SorterModelWrapper.class (not open)
+  FilePane$DetailsTableRowSorter.class (not open)
+  FilePane$DirectoriesFirstComparatorWrapper.class (not open)
+  FilePane$EditActionListener.class (not open)
+  FilePane$FileChooserUIAccessor.class (not open)
+  FilePane$FileRenderer.class (not open)
+  FilePane$Handler.class (not open)
+  FilePane$SortableListModel.class (not open)
+  FilePane$ViewTypeAction.class (not open)
+  FilePane.class (not open)
+  ImageCache$Entry.class (not open)
+  ImageCache.class (not open)
+  ImageIconUIResource.class (not open)
+  InteropProvider.class (not open)
+  JLightweightFrame$1.class (not open)
+  JLightweightFrame$2.class (not open)
+  JLightweightFrame$3$1.class (not open)
+  JLightweightFrame$3.class (not open)
+  JLightweightFrame$4.class (not open)
+  JLightweightFrame.class (not open)
+  LightweightContent.class (not open)
+  MenuItemCheckIconFactory.class (not open)
+  MenuItemLayoutHelper$ColumnAlignment.class (not open)
+  MenuItemLayoutHelper$LayoutResult.class (not open)
+  MenuItemLayoutHelper$RectSize.class (not open)
+  MenuItemLayoutHelper.class (not open)
+  PrintColorUIResource.class (not open)
+  PrintingStatus$1.class (not open)
+  PrintingStatus$2.class (not open)
+  PrintingStatus$3.class (not open)
+  PrintingStatus$4.class (not open)
+  PrintingStatus$NotificationPrintable$1.class (not open)
+  PrintingStatus$NotificationPrintable.class (not open)
+  PrintingStatus.class (not open)
+  StringUIClientPropertyKey.class
+    class StringUIClientPropertyKey
+  SwingAccessor$JComponentAccessor.class (not open)
+  SwingAccessor$JLightweightFrameAccessor.class (not open)
+  SwingAccessor$JTextComponentAccessor.class (not open)
+  SwingAccessor$KeyStrokeAccessor.class (not open)
+  SwingAccessor$PopupFactoryAccessor.class (not open)
+  SwingAccessor$RepaintManagerAccessor.class (not open)
+  SwingAccessor$UIDefaultsAccessor.class (not open)
+  SwingAccessor.class (not open)
+  SwingUtilities2$KeyPair.class (not open)
+  SwingUtilities2$LSBCacheEntry.class (not open)
+  SwingUtilities2$RepaintListener.class (not open)
+  SwingUtilities2$Section.class (not open)
+  SwingUtilities2.class (not open)
+  UIAction.class (not open)
+  WindowsPlacesBar.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.106
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.linux_aarch64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.107
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.107
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.posix.elf (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.108
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor.protocol.file (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.108
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.proc.arm64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.109
+!MESSAGE Cannot handle sun.nio.ch.sctp (not open) [in <module:jdk.sctp>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.109
+!MESSAGE Cannot handle sun.security.smartcardio (not open) [in <module:java.smartcardio>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.110
+!MESSAGE Cannot handle sun.awt.datatransfer (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.110
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.111
+!MESSAGE Cannot handle sun.jvmstat.perfdata.monitor.protocol.rmi (not open) [in <module:jdk.jstatd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.111
+!MESSAGE Cannot handle sun.net.www.protocol.http.spnego (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.111
+!MESSAGE Cannot handle sun.net.www.protocol.jrt (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.112
+!MESSAGE Cannot handle sun.net.www.content (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.112
+!MESSAGE Cannot handle sun.nio.ch (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.113
+!MESSAGE Cannot handle sun.security.pkcs11 (not open) [in <module:jdk.crypto.cryptoki>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.113
+!MESSAGE Cannot handle sun.awt.resources.cursors (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.114
+!MESSAGE Cannot handle sun.net.www.http (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.114
+!MESSAGE Cannot handle sun.security.mscapi (not open) [in <module:jdk.crypto.mscapi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.115
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.win32 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.115
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.bsd (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.116
+!MESSAGE Cannot handle sun.reflect.generics.scope (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.116
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.arm (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.117
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.win32_x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.117
+!MESSAGE Cannot handle sun.tools.jstat.resources (not open) [in <module:jdk.jcmd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.118
+!MESSAGE Cannot handle sun.net.www (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.118
+!MESSAGE Cannot handle sun.font [in <module:java.desktop>]
+  AttributeMap.class (not open)
+  AttributeValues$1.class (not open)
+  AttributeValues.class (not open)
+  BidiUtils.class (not open)
+  CMap$CMapFormat0.class (not open)
+  CMap$CMapFormat10.class (not open)
+  CMap$CMapFormat12.class (not open)
+  CMap$CMapFormat2.class (not open)
+  CMap$CMapFormat4.class (not open)
+  CMap$CMapFormat6.class (not open)
+  CMap$CMapFormat8.class (not open)
+  CMap$NullCMapClass.class (not open)
+  CMap$UVS.class (not open)
+  CMap.class (not open)
+  CharArrayCodePointIterator.class (not open)
+  CharSequenceCodePointIterator.class (not open)
+  CharToGlyphMapper.class (not open)
+  CharacterIteratorCodePointIterator.class (not open)
+  CodePointIterator.class (not open)
+  CompositeFont.class (not open)
+  CompositeFontDescriptor.class (not open)
+  CompositeGlyphMapper.class (not open)
+  CompositeStrike.class (not open)
+  CoreMetrics.class (not open)
+  CreatedFontTracker$TempFileDeletionHook.class (not open)
+  CreatedFontTracker.class (not open)
+  Decoration$DecorationImpl.class (not open)
+  Decoration$Label.class (not open)
+  Decoration.class (not open)
+  DelegatingShape.class (not open)
+  EAttribute.class (not open)
+  ExtendedTextLabel.class (not open)
+  ExtendedTextSourceLabel.class (not open)
+  FileFont$1.class (not open)
+  FileFont$CreatedFontFileDisposerRecord$1.class (not open)
+  FileFont$CreatedFontFileDisposerRecord.class (not open)
+  FileFont.class (not open)
+  FileFontStrike.class (not open)
+  Font2D.class (not open)
+  Font2DHandle.class (not open)
+  FontAccess.class (not open)
+  FontDesignMetrics$KeyReference.class (not open)
+  FontDesignMetrics$MetricsKey.class (not open)
+  FontDesignMetrics.class (not open)
+  FontFamily.class (not open)
+  FontLineMetrics.class (not open)
+  FontManager.class (not open)
+  FontManagerFactory$1.class (not open)
+  FontManagerFactory.class (not open)
+  FontManagerForSGE.class (not open)
+  FontManagerNativeLibrary$1.class (not open)
+  FontManagerNativeLibrary.class (not open)
+  FontResolver.class (not open)
+  FontRunIterator.class (not open)
+  FontScaler.class (not open)
+  FontScalerException.class (not open)
+  FontStrike.class (not open)
+  FontStrikeDesc.class (not open)
+  FontStrikeDisposer.class (not open)
+  FontSubstitution.class (not open)
+  FontUtilities$1.class (not open)
+  FontUtilities.class (not open)
+  FreetypeFontScaler.class (not open)
+  GlyphDisposedListener.class (not open)
+  GlyphLayout$EngineRecord.class (not open)
+  GlyphLayout$GVData.class (not open)
+  GlyphLayout$LayoutEngine.class (not open)
+  GlyphLayout$LayoutEngineFactory.class (not open)
+  GlyphLayout$LayoutEngineKey.class (not open)
+  GlyphLayout$SDCache$SDKey.class (not open)
+  GlyphLayout$SDCache.class (not open)
+  GlyphLayout.class (not open)
+  GlyphList.class (not open)
+  GraphicComponent.class (not open)
+  LayoutPathImpl$1.class (not open)
+  LayoutPathImpl$EmptyPath.class (not open)
+  LayoutPathImpl$EndType.class (not open)
+  LayoutPathImpl$SegmentPath$LineInfo.class (not open)
+  LayoutPathImpl$SegmentPath$Mapper.class (not open)
+  LayoutPathImpl$SegmentPath$Segment.class (not open)
+  LayoutPathImpl$SegmentPath.class (not open)
+  LayoutPathImpl$SegmentPathBuilder.class (not open)
+  LayoutPathImpl.class (not open)
+  NativeFont.class (not open)
+  NativeStrike.class (not open)
+  NullFontScaler.class (not open)
+  PhysicalFont.class (not open)
+  PhysicalStrike.class (not open)
+  Script.class (not open)
+  ScriptRun.class (not open)
+  ScriptRunData.class (not open)
+  StandardGlyphVector$ADL.class (not open)
+  StandardGlyphVector$GlyphStrike.class (not open)
+  StandardGlyphVector$GlyphTransformInfo.class (not open)
+  StandardGlyphVector.class
+    class StandardGlyphVector
+  StandardTextSource.class (not open)
+  StrikeCache$1.class (not open)
+  StrikeCache$2.class (not open)
+  StrikeCache$DisposableStrike.class (not open)
+  StrikeCache$SoftDisposerRef.class (not open)
+  StrikeCache$WeakDisposerRef.class (not open)
+  StrikeCache.class
+    class StrikeCache
+  StrikeMetrics.class
+    class StrikeMetrics
+  SunFontManager$1.class (not open)
+  SunFontManager$10.class (not open)
+  SunFontManager$11.class (not open)
+  SunFontManager$12.class (not open)
+  SunFontManager$13.class (not open)
+  SunFontManager$2.class (not open)
+  SunFontManager$3.class (not open)
+  SunFontManager$4.class (not open)
+  SunFontManager$5.class (not open)
+  SunFontManager$6.class (not open)
+  SunFontManager$7.class (not open)
+  SunFontManager$8$1.class (not open)
+  SunFontManager$8.class (not open)
+  SunFontManager$9.class (not open)
+  SunFontManager$FamilyDescription.class (not open)
+  SunFontManager$FontRegistrationInfo.class (not open)
+  SunFontManager$T1Filter.class (not open)
+  SunFontManager$TTFilter.class (not open)
+  SunFontManager$TTorT1Filter.class (not open)
+  SunFontManager.class (not open)
+  SunLayoutEngine.class (not open)
+  TextLabel.class (not open)
+  TextLabelFactory.class (not open)
+  TextLineComponent.class (not open)
+  TextRecord.class (not open)
+  TextSource.class (not open)
+  TextSourceLabel.class (not open)
+  TrueTypeFont$1.class (not open)
+  TrueTypeFont$DirectoryEntry.class (not open)
+  TrueTypeFont$TTDisposerRecord.class (not open)
+  TrueTypeFont.class (not open)
+  TrueTypeGlyphMapper.class (not open)
+  Type1Font$1.class (not open)
+  Type1Font$2.class (not open)
+  Type1Font$T1DisposerRecord$1.class (not open)
+  Type1Font$T1DisposerRecord.class (not open)
+  Type1Font.class (not open)
+  Type1GlyphMapper.class (not open)
+  Underline$IMGrayUnderline.class (not open)
+  Underline$StandardUnderline.class (not open)
+  Underline.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.119
+!MESSAGE Cannot handle sun.tools.attach (not open) [in <module:jdk.attach>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.119
+!MESSAGE Cannot handle sun.jvm.hotspot.types (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.120
+!MESSAGE Cannot handle sun.print (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.120
+!MESSAGE Cannot handle sun.jvm.hotspot.utilities [in <module:jdk.hotspot.agent>]
+  AbstractHeapGraphWriter$1.class (not open)
+  AbstractHeapGraphWriter$2.class (not open)
+  AbstractHeapGraphWriter$3.class (not open)
+  AbstractHeapGraphWriter$4.class (not open)
+  AbstractHeapGraphWriter.class (not open)
+  AddressOps.class (not open)
+  AltPlatformInfo.class (not open)
+  Assert.class (not open)
+  AssertionFailure.class (not open)
+  BasicHashtable$1.class (not open)
+  BasicHashtable.class (not open)
+  BasicHashtableEntry$1.class (not open)
+  BasicHashtableEntry.class (not open)
+  BitMap.class (not open)
+  BitMapClosure.class (not open)
+  Bits.class (not open)
+  CPPExpressions$CastExpr.class (not open)
+  CPPExpressions$StaticFieldExpr.class
+    class StaticFieldExpr
+  CPPExpressions.class (not open)
+  CStringUtilities.class (not open)
+  CompactHashTable$1.class (not open)
+  CompactHashTable$SymbolVisitor.class (not open)
+  CompactHashTable.class (not open)
+  ConstIterator.class (not open)
+  ConstantTag.class (not open)
+  FindObjectByType.class (not open)
+  GenericArray$1.class (not open)
+  GenericArray.class (not open)
+  GenericGrowableArray$1.class (not open)
+  GenericGrowableArray.class (not open)
+  GrowableArray$1.class (not open)
+  GrowableArray.class (not open)
+  Hashtable$1.class (not open)
+  Hashtable.class (not open)
+  HashtableBucket$1.class (not open)
+  HashtableBucket.class (not open)
+  HashtableEntry$1.class (not open)
+  HashtableEntry.class (not open)
+  HeapGXLWriter.class (not open)
+  HeapGraphWriter.class (not open)
+  HeapHprofBinWriter$1.class (not open)
+  HeapHprofBinWriter$2.class (not open)
+  HeapHprofBinWriter$3.class (not open)
+  HeapHprofBinWriter$4.class (not open)
+  HeapHprofBinWriter$ClassData.class (not open)
+  HeapHprofBinWriter.class (not open)
+  HeapProgressThunk.class (not open)
+  IntArray$1.class (not open)
+  IntArray.class (not open)
+  IntegerEnum.class (not open)
+  Interval.class (not open)
+  IntervalNode.class (not open)
+  IntervalTree$IntervalComparator.class (not open)
+  IntervalTree.class (not open)
+  KlassArray$1.class (not open)
+  KlassArray.class (not open)
+  LivenessAnalysis.class (not open)
+  LivenessPath.class (not open)
+  LivenessPathElement.class (not open)
+  LivenessPathList.class (not open)
+  MarkBits.class (not open)
+  MessageQueue.class (not open)
+  MessageQueueBackend$MessageQueueImpl.class (not open)
+  MessageQueueBackend.class (not open)
+  MethodArray$1.class (not open)
+  MethodArray.class (not open)
+  ObjectReader$1.class (not open)
+  ObjectReader$2.class (not open)
+  ObjectReader$3.class (not open)
+  ObjectReader$4.class (not open)
+  ObjectReader$5.class (not open)
+  ObjectReader$6.class (not open)
+  ObjectReader$7.class (not open)
+  ObjectReader$8.class (not open)
+  ObjectReader$9.class (not open)
+  ObjectReader$FieldSetter.class (not open)
+  ObjectReader$SignatureParser.class (not open)
+  ObjectReader.class (not open)
+  PlatformInfo.class (not open)
+  PlatformInfoClosed.class (not open)
+  PointerFinder.class (not open)
+  PointerLocation.class (not open)
+  ProcImageClassLoader.class (not open)
+  ProgressiveHeapVisitor.class (not open)
+  RBColor.class (not open)
+  RBNode.class (not open)
+  RBTree$1.class (not open)
+  RBTree.class (not open)
+  ReversePtrs.class (not open)
+  ReversePtrsAnalysis$1$1.class (not open)
+  ReversePtrsAnalysis$1.class (not open)
+  ReversePtrsAnalysis$2.class (not open)
+  ReversePtrsAnalysis$RootVisitor.class (not open)
+  ReversePtrsAnalysis.class (not open)
+  RobustOopDeterminator$1.class (not open)
+  RobustOopDeterminator.class (not open)
+  StreamMonitor$Trigger.class (not open)
+  StreamMonitor.class
+    class StreamMonitor
+  SystemDictionaryHelper$1.class (not open)
+  SystemDictionaryHelper$2.class (not open)
+  SystemDictionaryHelper$3.class (not open)
+  SystemDictionaryHelper.class (not open)
+  U1Array$1.class (not open)
+  U1Array.class (not open)
+  U2Array$1.class (not open)
+  U2Array.class (not open)
+  UnsupportedPlatformException.class (not open)
+  WorkerThread$1.class (not open)
+  WorkerThread$MainLoop.class (not open)
+  WorkerThread.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.121
+!MESSAGE Cannot handle sun.tools.jmap (not open) [in <module:jdk.jcmd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.122
+!MESSAGE Cannot handle sun.jvm.hotspot.gc.serial (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.122
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.linux.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.122
+!MESSAGE Cannot handle sun.security.ec [in <module:jdk.crypto.ec>]
+  ECDHKeyAgreement.class (not open)
+  ECDSAOperations$Nonce.class
+    class Nonce
+  ECDSAOperations$Seed.class (not open)
+  ECDSAOperations.class (not open)
+  ECDSASignature$Raw.class (not open)
+  ECDSASignature$RawECDSA.class (not open)
+  ECDSASignature$RawinP1363Format.class (not open)
+  ECDSASignature$SHA1.class (not open)
+  ECDSASignature$SHA1inP1363Format.class (not open)
+  ECDSASignature$SHA224.class (not open)
+  ECDSASignature$SHA224inP1363Format.class (not open)
+  ECDSASignature$SHA256.class (not open)
+  ECDSASignature$SHA256inP1363Format.class (not open)
+  ECDSASignature$SHA384.class (not open)
+  ECDSASignature$SHA384inP1363Format.class (not open)
+  ECDSASignature$SHA512.class (not open)
+  ECDSASignature$SHA512inP1363Format.class (not open)
+  ECDSASignature.class (not open)
+  ECKeyFactory.class (not open)
+  ECKeyPairGenerator.class (not open)
+  ECOperations$IntermediateValueException.class (not open)
+  ECOperations.class (not open)
+  ECPrivateKeyImpl.class (not open)
+  ECPublicKeyImpl.class (not open)
+  SunEC$1.class (not open)
+  SunEC$2.class (not open)
+  SunEC$ProviderService.class (not open)
+  SunEC.class (not open)
+  XDHKeyAgreement$X25519.class (not open)
+  XDHKeyAgreement$X448.class (not open)
+  XDHKeyAgreement.class (not open)
+  XDHKeyFactory$X25519.class (not open)
+  XDHKeyFactory$X448.class (not open)
+  XDHKeyFactory.class (not open)
+  XDHKeyPairGenerator$X25519.class (not open)
+  XDHKeyPairGenerator$X448.class (not open)
+  XDHKeyPairGenerator.class (not open)
+  XDHPrivateKeyImpl.class (not open)
+  XDHPublicKeyImpl.class (not open)
+  XECOperations.class (not open)
+  XECParameters$1.class (not open)
+  XECParameters.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.123
+!MESSAGE Cannot handle sun.invoke.util (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.123
+!MESSAGE Cannot handle sun.security.pkcs12 (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.124
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.windbg.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.125
+!MESSAGE Cannot handle sun.jvm.hotspot [in <module:jdk.hotspot.agent>]
+  BsdVtblAccess.class (not open)
+  CLHSDB$1.class (not open)
+  CLHSDB$2.class (not open)
+  CLHSDB.class (not open)
+  CommandProcessor$1.class (not open)
+  CommandProcessor$10$1.class (not open)
+  CommandProcessor$10$2.class (not open)
+  CommandProcessor$10.class (not open)
+  CommandProcessor$11.class (not open)
+  CommandProcessor$12$1.class (not open)
+  CommandProcessor$12.class (not open)
+  CommandProcessor$13.class (not open)
+  CommandProcessor$14.class (not open)
+  CommandProcessor$15.class (not open)
+  CommandProcessor$16.class (not open)
+  CommandProcessor$17$1.class (not open)
+  CommandProcessor$17.class (not open)
+  CommandProcessor$18$1.class (not open)
+  CommandProcessor$18.class (not open)
+  CommandProcessor$19$1.class (not open)
+  CommandProcessor$19.class (not open)
+  CommandProcessor$2.class (not open)
+  CommandProcessor$20.class (not open)
+  CommandProcessor$21.class (not open)
+  CommandProcessor$22.class (not open)
+  CommandProcessor$23.class (not open)
+  CommandProcessor$24.class (not open)
+  CommandProcessor$25.class (not open)
+  CommandProcessor$26.class (not open)
+  CommandProcessor$27.class (not open)
+  CommandProcessor$28.class (not open)
+  CommandProcessor$29.class (not open)
+  CommandProcessor$3.class (not open)
+  CommandProcessor$30.class (not open)
+  CommandProcessor$31.class (not open)
+  CommandProcessor$32.class (not open)
+  CommandProcessor$33.class (not open)
+  CommandProcessor$34.class (not open)
+  CommandProcessor$35.class (not open)
+  CommandProcessor$36.class (not open)
+  CommandProcessor$37.class (not open)
+  CommandProcessor$38.class (not open)
+  CommandProcessor$39.class (not open)
+  CommandProcessor$4.class (not open)
+  CommandProcessor$40.class (not open)
+  CommandProcessor$41.class (not open)
+  CommandProcessor$42$1.class (not open)
+  CommandProcessor$42$2.class (not open)
+  CommandProcessor$42$3.class (not open)
+  CommandProcessor$42.class (not open)
+  CommandProcessor$43$1.class (not open)
+  CommandProcessor$43.class (not open)
+  CommandProcessor$44.class (not open)
+  CommandProcessor$45.class (not open)
+  CommandProcessor$46.class (not open)
+  CommandProcessor$47.class (not open)
+  CommandProcessor$48.class (not open)
+  CommandProcessor$49.class (not open)
+  CommandProcessor$5.class (not open)
+  CommandProcessor$50.class (not open)
+  CommandProcessor$51.class (not open)
+  CommandProcessor$52.class (not open)
+  CommandProcessor$53.class (not open)
+  CommandProcessor$6.class (not open)
+  CommandProcessor$7.class (not open)
+  CommandProcessor$8.class (not open)
+  CommandProcessor$9.class (not open)
+  CommandProcessor$BootFilter.class (not open)
+  CommandProcessor$Command.class (not open)
+  CommandProcessor$DebuggerInterface.class (not open)
+  CommandProcessor$NonBootFilter.class
+    class NonBootFilter
+  CommandProcessor$Tokens.class (not open)
+  CommandProcessor.class (not open)
+  DebugServer$1.class (not open)
+  DebugServer.class (not open)
+  HSDB$1.class (not open)
+  HSDB$10.class (not open)
+  HSDB$11.class (not open)
+  HSDB$12.class (not open)
+  HSDB$13.class (not open)
+  HSDB$14.class (not open)
+  HSDB$15.class (not open)
+  HSDB$16.class (not open)
+  HSDB$17.class (not open)
+  HSDB$18.class (not open)
+  HSDB$19.class (not open)
+  HSDB$2.class (not open)
+  HSDB$20.class (not open)
+  HSDB$21.class (not open)
+  HSDB$22.class (not open)
+  HSDB$23.class (not open)
+  HSDB$24.class (not open)
+  HSDB$25$1.class (not open)
+  HSDB$25.class (not open)
+  HSDB$26.class (not open)
+  HSDB$27.class (not open)
+  HSDB$28.class (not open)
+  HSDB$29$1.class (not open)
+  HSDB$29.class (not open)
+  HSDB$3.class (not open)
+  HSDB$30.class (not open)
+  HSDB$31$1.class (not open)
+  HSDB$31.class (not open)
+  HSDB$32.class (not open)
+  HSDB$33$1.class (not open)
+  HSDB$33.class (not open)
+  HSDB$34$1.class (not open)
+  HSDB$34.class (not open)
+  HSDB$35.class (not open)
+  HSDB$36.class (not open)
+  HSDB$37.class (not open)
+  HSDB$38.class (not open)
+  HSDB$39.class (not open)
+  HSDB$4.class (not open)
+  HSDB$40.class (not open)
+  HSDB$41.class (not open)
+  HSDB$42.class (not open)
+  HSDB$43.class (not open)
+  HSDB$44.class (not open)
+  HSDB$45$1.class (not open)
+  HSDB$45.class (not open)
+  HSDB$46.class (not open)
+  HSDB$47$1.class (not open)
+  HSDB$47.class (not open)
+  HSDB$48.class (not open)
+  HSDB$5.class (not open)
+  HSDB$6.class (not open)
+  HSDB$7.class (not open)
+  HSDB$8.class (not open)
+  HSDB$9.class (not open)
+  HSDB$CleanupThunk.class (not open)
+  HSDB$CloseUI.class (not open)
+  HSDB$FindObjectByTypeCleanupThunk$1.class (not open)
+  HSDB$FindObjectByTypeCleanupThunk.class (not open)
+  HSDB$HeapProgress$1.class (not open)
+  HSDB$HeapProgress$2.class (not open)
+  HSDB$HeapProgress$3.class (not open)
+  HSDB$HeapProgress.class (not open)
+  HSDB$ObjectHistogramCleanupThunk$1.class (not open)
+  HSDB$ObjectHistogramCleanupThunk.class (not open)
+  HSDB$SignalInfo.class (not open)
+  HSDB$StackWalker.class (not open)
+  HSDB$VisitHeap.class (not open)
+  HSDB.class (not open)
+  HelloWorld.class (not open)
+  HotSpotAgent$1.class (not open)
+  HotSpotAgent.class (not open)
+  HotSpotSolarisVtblAccess.class (not open)
+  HotSpotTypeDataBase.class (not open)
+  LinuxVtblAccess.class (not open)
+  ObjectHistogram.class (not open)
+  RMIHelper.class (not open)
+  SAGetopt.class (not open)
+  SAGetoptException.class (not open)
+  SALauncher.class (not open)
+  SALauncherLoader.class (not open)
+  StackTrace.class
+    class StackTrace
+  Win32VtblAccess.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.125
+!MESSAGE Cannot handle sun.security.util [in <module:java.base>]
+  AbstractAlgorithmConstraints$1.class (not open)
+  AbstractAlgorithmConstraints.class (not open)
+  AlgorithmDecomposer.class (not open)
+  AnchorCertificates$1.class (not open)
+  AnchorCertificates.class (not open)
+  ArrayUtil.class
+    class ArrayUtil
+  AuthResources.class (not open)
+  AuthResources_ja.class (not open)
+  AuthResources_zh_CN.class (not open)
+  BitArray.class (not open)
+  ByteArrayLexOrder.class (not open)
+  ByteArrayTagOrder.class (not open)
+  Cache$CacheVisitor.class (not open)
+  Cache$EqualByteArray.class (not open)
+  Cache.class (not open)
+  ConsoleCallbackHandler$1OptionInfo.class (not open)
+  ConsoleCallbackHandler.class (not open)
+  ConstraintsParameters.class (not open)
+  CurveDB.class (not open)
+  Debug.class (not open)
+  DerEncoder.class (not open)
+  DerIndefLenConverter.class (not open)
+  DerInputBuffer.class (not open)
+  DerInputStream.class (not open)
+  DerOutputStream.class (not open)
+  DerValue.class (not open)
+  DisabledAlgorithmConstraints$1.class (not open)
+  DisabledAlgorithmConstraints$Constraint$Operator.class (not open)
+  DisabledAlgorithmConstraints$Constraint.class (not open)
+  DisabledAlgorithmConstraints$Constraints$Holder.class (not open)
+  DisabledAlgorithmConstraints$Constraints.class (not open)
+  DisabledAlgorithmConstraints$DenyAfterConstraint.class (not open)
+  DisabledAlgorithmConstraints$DisabledConstraint.class (not open)
+  DisabledAlgorithmConstraints$KeySizeConstraint.class (not open)
+  DisabledAlgorithmConstraints$UsageConstraint.class (not open)
+  DisabledAlgorithmConstraints$jdkCAConstraint.class (not open)
+  DisabledAlgorithmConstraints.class (not open)
+  DomainName$1.class (not open)
+  DomainName$CommonMatch.class (not open)
+  DomainName$Match.class (not open)
+  DomainName$OtherMatch.class (not open)
+  DomainName$OtherRule.class (not open)
+  DomainName$RegisteredDomainImpl.class (not open)
+  DomainName$Rule$Type.class (not open)
+  DomainName$Rule.class (not open)
+  DomainName$Rules$1.class (not open)
+  DomainName$Rules$RuleSet.class (not open)
+  DomainName$Rules.class (not open)
+  DomainName.class (not open)
+  ECKeySizeParameterSpec.class (not open)
+  ECParameters.class (not open)
+  ECUtil.class (not open)
+  FilePermCompat.class (not open)
+  HexDumpEncoder.class (not open)
+  HostnameChecker.class (not open)
+  IOUtils.class (not open)
+  KeyStoreDelegator.class (not open)
+  KeyUtil.class (not open)
+  LazyCodeSourcePermissionCollection.class (not open)
+  LegacyAlgorithmConstraints.class (not open)
+  Length.class (not open)
+  LocalizedMessage.class (not open)
+  ManifestDigester$Entry.class (not open)
+  ManifestDigester$Position.class (not open)
+  ManifestDigester$Section.class (not open)
+  ManifestDigester.class (not open)
+  ManifestEntryVerifier$SunProviderHolder.class (not open)
+  ManifestEntryVerifier.class (not open)
+  MemoryCache$CacheEntry.class (not open)
+  MemoryCache$HardCacheEntry.class (not open)
+  MemoryCache$SoftCacheEntry.class (not open)
+  MemoryCache.class (not open)
+  MessageDigestSpi2.class (not open)
+  NamedCurve.class (not open)
+  NullCache.class (not open)
+  ObjectIdentifier$HugeOidNotSupportedByOldJDK.class (not open)
+  ObjectIdentifier.class (not open)
+  Password.class (not open)
+  Pem.class (not open)
+  PendingException.class (not open)
+  PermissionFactory.class (not open)
+  PolicyUtil.class (not open)
+  PropertyExpander$ExpandException.class (not open)
+  PropertyExpander.class (not open)
+  RegisteredDomain$Type.class (not open)
+  RegisteredDomain.class (not open)
+  Resources.class (not open)
+  ResourcesMgr.class (not open)
+  Resources_ja.class (not open)
+  Resources_zh_CN.class (not open)
+  SecurityConstants.class (not open)
+  SecurityProperties.class (not open)
+  SecurityProviderConstants.class (not open)
+  SignatureFileVerifier$ConfigurationHolder.class (not open)
+  SignatureFileVerifier.class (not open)
+  SignatureUtil.class (not open)
+  UntrustedCertificates$1.class (not open)
+  UntrustedCertificates.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.126
+!MESSAGE Cannot handle sun.rmi.rmic.resources (not open) [in <module:jdk.rmic>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.126
+!MESSAGE Cannot handle sun.jvm.hotspot.tools.jcore (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.127
+!MESSAGE Cannot handle sun.rmi.server.resources (not open) [in <module:java.rmi>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.128
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.ppc64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.128
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.bsd.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.129
+!MESSAGE Cannot handle sun.tools.common (not open) [in <module:jdk.jcmd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.129
+!MESSAGE Cannot handle sun.datatransfer (not open) [in <module:java.datatransfer>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.130
+!MESSAGE Cannot handle sun.jvm.hotspot.opto (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.131
+!MESSAGE Cannot handle sun.net.spi (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.131
+!MESSAGE Cannot handle sun.text.resources (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.132
+!MESSAGE Cannot handle sun.jvmstat.perfdata (not open) [in <module:jdk.internal.jvmstat>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.132
+!MESSAGE Cannot handle sun.management.spi (not open) [in <module:java.management>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.133
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.amd64 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.133
+!MESSAGE Cannot handle sun.tools.jstatd (not open) [in <module:jdk.jstatd>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.134
+!MESSAGE Cannot handle sun.awt.www.content.audio (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.134
+!MESSAGE Cannot handle sun.tools.util (not open) [in <module:jdk.rmic>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.135
+!MESSAGE Cannot handle sun.text.resources.cldr (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.135
+!MESSAGE Cannot handle sun.util.spi (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.136
+!MESSAGE Cannot handle sun.security.jgss.krb5 (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.136
+!MESSAGE Cannot handle sun.awt.windows (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.137
+!MESSAGE Cannot handle sun.net [in <module:java.base>]
+  ApplicationProxy.class (not open)
+  ConnectionResetException.class (not open)
+  DefaultProgressMeteringPolicy.class (not open)
+  InetAddressCachePolicy$1.class (not open)
+  InetAddressCachePolicy$2.class (not open)
+  InetAddressCachePolicy.class (not open)
+  NetHooks.class (not open)
+  NetProperties$1.class (not open)
+  NetProperties.class (not open)
+  NetworkClient$1.class (not open)
+  NetworkClient$2.class (not open)
+  NetworkClient$3.class (not open)
+  NetworkClient.class (not open)
+  NetworkServer.class (not open)
+  PortConfig.class (not open)
+  ProgressEvent.class (not open)
+  ProgressListener.class (not open)
+  ProgressMeteringPolicy.class (not open)
+  ProgressMonitor.class (not open)
+  ProgressSource$State.class
+    enum State
+  ProgressSource.class (not open)
+  ResourceManager.class (not open)
+  SocksProxy.class (not open)
+  TelnetInputStream.class (not open)
+  TelnetOutputStream.class (not open)
+  TelnetProtocolException.class (not open)
+  TransferProtocolClient.class (not open)
+  URLCanonicalizer.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.137
+!MESSAGE Cannot handle sun.launcher (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.138
+!MESSAGE Cannot handle sun.security.timestamp (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.138
+!MESSAGE Cannot handle sun.management [in <module:java.management>]
+  BaseOperatingSystemImpl.class (not open)
+  ClassLoadingImpl.class (not open)
+  CompilationImpl.class (not open)
+  CompilerThreadStat.class (not open)
+  GarbageCollectorImpl.class (not open)
+  HotspotClassLoading.class (not open)
+  HotspotClassLoadingMBean.class (not open)
+  HotspotCompilation$CompilerThreadInfo.class (not open)
+  HotspotCompilation.class (not open)
+  HotspotCompilationMBean.class (not open)
+  HotspotInternal.class (not open)
+  HotspotInternalMBean.class (not open)
+  HotspotMemory.class (not open)
+  HotspotMemoryMBean.class (not open)
+  HotspotRuntime.class (not open)
+  HotspotRuntimeMBean.class (not open)
+  HotspotThread.class (not open)
+  HotspotThreadMBean.class (not open)
+  LazyCompositeData.class
+    class LazyCompositeData
+  LockInfoCompositeData.class (not open)
+  ManagementFactoryHelper$1.class (not open)
+  ManagementFactoryHelper$2.class (not open)
+  ManagementFactoryHelper$3.class (not open)
+  ManagementFactoryHelper$LoggingMXBeanAccess$1.class (not open)
+  ManagementFactoryHelper$LoggingMXBeanAccess.class (not open)
+  ManagementFactoryHelper$PlatformLoggingImpl.class (not open)
+  ManagementFactoryHelper.class (not open)
+  MappedMXBeanType$ArrayMXBeanType.class (not open)
+  MappedMXBeanType$BasicMXBeanType.class (not open)
+  MappedMXBeanType$CompositeDataMXBeanType$1.class (not open)
+  MappedMXBeanType$CompositeDataMXBeanType$2.class (not open)
+  MappedMXBeanType$CompositeDataMXBeanType.class (not open)
+  MappedMXBeanType$EnumMXBeanType.class (not open)
+  MappedMXBeanType$GenericArrayMXBeanType.class (not open)
+  MappedMXBeanType$InProgress.class (not open)
+  MappedMXBeanType$ListMXBeanType.class (not open)
+  MappedMXBeanType$MapMXBeanType.class (not open)
+  MappedMXBeanType.class (not open)
+  MemoryImpl.class (not open)
+  MemoryManagerImpl.class (not open)
+  MemoryNotifInfoCompositeData.class (not open)
+  MemoryPoolImpl$CollectionSensor.class (not open)
+  MemoryPoolImpl$PoolSensor.class (not open)
+  MemoryPoolImpl.class (not open)
+  MemoryUsageCompositeData.class (not open)
+  MethodInfo.class (not open)
+  MonitorInfoCompositeData.class (not open)
+  NotificationEmitterSupport$ListenerInfo.class (not open)
+  NotificationEmitterSupport.class (not open)
+  RuntimeImpl.class (not open)
+  Sensor.class (not open)
+  StackTraceElementCompositeData.class
+    class StackTraceElementCompositeData
+  ThreadImpl.class (not open)
+  ThreadInfoCompositeData$ThreadInfoCompositeTypes.class (not open)
+  ThreadInfoCompositeData.class (not open)
+  Util.class (not open)
+  VMManagement.class (not open)
+  VMManagementImpl$1.class (not open)
+  VMManagementImpl.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.139
+!MESSAGE Cannot handle sun.jvm.hotspot.debugger.x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.139
+!MESSAGE Cannot handle sun.java2d.pipe.hw (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.140
+!MESSAGE Cannot handle sun.security.ssl (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.141
+!MESSAGE Cannot handle sun.security.krb5.internal.crypto [in <module:java.security.jgss>]
+  Aes128.class (not open)
+  Aes128CtsHmacSha1EType.class (not open)
+  Aes128CtsHmacSha2EType.class (not open)
+  Aes128Sha2.class (not open)
+  Aes256.class (not open)
+  Aes256CtsHmacSha1EType.class (not open)
+  Aes256CtsHmacSha2EType.class (not open)
+  Aes256Sha2.class (not open)
+  ArcFourHmac.class
+    class ArcFourHmac
+  ArcFourHmacEType.class
+    class ArcFourHmacEType
+  CksumType.class (not open)
+  Crc32CksumType.class (not open)
+  Des.class (not open)
+  Des3.class (not open)
+  Des3CbcHmacSha1KdEType.class (not open)
+  DesCbcCrcEType.class (not open)
+  DesCbcEType.class (not open)
+  DesCbcMd5EType.class (not open)
+  DesMacCksumType.class (not open)
+  DesMacKCksumType.class (not open)
+  EType.class
+    class EType
+  HmacMd5ArcFourCksumType.class (not open)
+  HmacSha1Aes128CksumType.class (not open)
+  HmacSha1Aes256CksumType.class (not open)
+  HmacSha1Des3KdCksumType.class (not open)
+  HmacSha2Aes128CksumType.class (not open)
+  HmacSha2Aes256CksumType.class (not open)
+  KeyUsage.class (not open)
+  Nonce.class (not open)
+  NullEType.class (not open)
+  RsaMd5CksumType.class (not open)
+  RsaMd5DesCksumType.class (not open)
+  crc32.class (not open) as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.141
+!MESSAGE Cannot handle sun.awt.resources (not open) [in <module:java.desktop>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.142
+!MESSAGE Cannot handle sun.util (not open) [in <module:java.base>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.142
+!MESSAGE Cannot handle sun.security.krb5.internal (not open) [in <module:java.security.jgss>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.143
+!MESSAGE Cannot handle sun.util.logging.internal (not open) [in <module:java.logging>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:13:26.143
+!MESSAGE Cannot handle sun.jvm.hotspot.runtime.solaris_x86 (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:16:29.169
+!MESSAGE Cannot handle netscape.javascript (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:16:29.170
+!MESSAGE Cannot handle netscape (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:40:42.116
+!MESSAGE Cannot handle toolbarButtonGraphics (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:40:42.117
+!MESSAGE Cannot handle toolbarButtonGraphics.navigation (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:40:42.117
+!MESSAGE Cannot handle toolbarButtonGraphics.text (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:40:42.118
+!MESSAGE Cannot handle toolbarButtonGraphics.development (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 16:40:42.118
+!MESSAGE Cannot handle toolbarButtonGraphics.general (not open) [in <module:jdk.hotspot.agent>] as return type.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-23 16:58:14.328
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting.jar!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-23 16:58:48.254
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 17:27:47.361
+!MESSAGE Cannot handle netscape.javascript (not open) [in <module:jdk.jsobject>] as return type.
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2020-11-23 17:27:47.361
+!MESSAGE Cannot handle netscape (not open) [in <module:jdk.jsobject>] as return type.
+!SESSION 2020-11-23 20:37:27.993 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-23 20:37:41.224
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yito Wang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-23 20:46:54.143
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting.jar!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-23 20:47:15.772
+!MESSAGE No repository found at jar:file:/C:/Users/Yito%20Wang/Downloads/spring-5.2.9.RELEASE-dist.zip!/.

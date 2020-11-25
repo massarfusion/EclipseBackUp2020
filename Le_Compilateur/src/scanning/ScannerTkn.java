@@ -210,6 +210,9 @@ class analysizer{
 			if (!(val.equals("18")||val.equals("19")||val.equals("20"))) {
 				tks.add(new Token(key, val,-1));
 			}
+			else if (val.equals("114")) {
+                continue;
+            }
 			else {
 				tks.add(new Token(key, val,114514));
 			}

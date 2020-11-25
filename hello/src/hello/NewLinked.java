@@ -562,6 +562,10 @@ public class NewLinked {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+	    for (int i=0;i<=38;i++) {
+	        if (i%5==0) {System.out.println();}
+	        System.out.print("\""+i+"\""+".equals(tst)||");
+	    }
 		JumpStairs jpsr=new JumpStairs();
 		System.out.println(jpsr.climbStairs(4));
 		Combination cbn=new Combination();

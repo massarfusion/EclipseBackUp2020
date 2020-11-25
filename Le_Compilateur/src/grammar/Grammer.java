@@ -35,6 +35,13 @@ public class Grammer {
             if (!processStack.peek().equals("B")) {
                 String left=processStack.peek();//产生式左部
                 String[] tmpSq=getSeq(processStack.peek(), readStack.peek()); //产生式右部
+                if (tmpSq[0].equals("ERROR")) {
+                    System.out.println("Fatal error,Exiting...");
+                    return false;
+                }
+                else {
+                    ;
+                }
                 dec.append(left);dec.append("->");
                 for ( String s:tmpSq) {
                     dec.append(s);dec.append(" ");
@@ -48,6 +55,16 @@ public class Grammer {
                     }
                     processStack.push(tmp);
                 }//压栈
+                if ("#".equals(readStack.peek())&&readStack.size()==1&&
+                        "#".equals(processStack.peek())&&processStack.size()==1)
+                {
+                    System.out.println(processStack.toString()+"-----"+dec+"-----"+readStack.toString());
+                    System.out.println("Analyzing completed,SUCCESS");
+                    return true;
+                }
+                else {
+                    ;
+                }//终止的基线条件
                 while (ifEqual(processStack.peek(), readStack.peek())) {
                     readStack.pop();
                     processStack.pop();
@@ -61,6 +78,7 @@ public class Grammer {
                     return false;
                 }
                 else {
+                    System.out.println("Bool Judgment Succeeded");
                     ;
                 }
                 //记得加纠错机构！
@@ -71,12 +89,12 @@ public class Grammer {
                 //此处记得加入消除左右一致则消去！
             }
             String a= processStack.toString()+"-----"+dec+"-----"+readStack.toString();
-            if ("[#, Z]-----H-> -----[#]".equals(a)) {
-                int yjsp=114514;
-            }
-            else {
+//            if ("[#, Z]-----H-> -----[#]".equals(a)) {
+//                int yjsp=114514;
+//            }
+//            else {
                 System.out.println(a);
-            }
+//            }
             //[#, Z]-----H-> -----[#]
             dec.setLength(0);
         }//major while loop

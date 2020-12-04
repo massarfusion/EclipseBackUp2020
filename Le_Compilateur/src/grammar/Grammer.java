@@ -1,6 +1,9 @@
 package grammar;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
@@ -66,7 +69,7 @@ public class Grammer {
                     ;
                 }//终止的基线条件
                 while (ifEqual(processStack.peek(), readStack.peek())) {
-                    readStack.pop();
+                    System.out.println("左右相同，删去"+readStack.pop()); 
                     processStack.pop();
                 }
             }            
@@ -83,7 +86,7 @@ public class Grammer {
                 }
                 //记得加纠错机构！
                 while (ifEqual(processStack.peek(), readStack.peek())) {
-                    readStack.pop();
+                    System.out.println("左右相同，删去"+readStack.pop());
                     processStack.pop();
                 }
                 //此处记得加入消除左右一致则消去！

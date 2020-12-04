@@ -91,7 +91,12 @@ class analysizer{
 			}
 			else if (isLetter(tmpch)) {
 //				tmpsb.append(tmpch);
+			    boolean dividerMark;
 				while (isDigit(tmpch)||isLetter(tmpch)) {
+				    if (';'==tmpch) {
+				        dividerMark=true;
+				    }
+				    else {dividerMark=false;}
 					tmpsb.append(tmpch);
 					tmpch=target[++i];
 				}
@@ -180,7 +185,6 @@ class analysizer{
 				}
 				else if (tmpch=='>') {
 					mp.put("<>","35");
-					i--;
 				}
 				else {
 					mp.put("<", "34");
